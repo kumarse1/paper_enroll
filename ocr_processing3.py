@@ -294,25 +294,16 @@ if __name__ == "__main__":
         print("PyMuPDF is not installed. Please install it with: pip install pymupdf")
         exit(1)
     
-    # Set up command line arguments
-    parser = argparse.ArgumentParser(description='Process PDF forms with OCR')
-    parser.add_argument('--pdf', type=str, required=True, help='Path to the PDF file')
-    parser.add_argument('--html', type=str, default=None, help='Path to save HTML output (optional)')
-    args = parser.parse_args()
+    # Hard-coded PDF path - change this to your actual PDF file path
+    pdf_path = "your_document.pdf"  # REPLACE THIS WITH YOUR PDF PATH
     
-    # Get PDF path from arguments
-    pdf_path = args.pdf
-    
+    # Set HTML output path
+    html_output = os.path.splitext(pdf_path)[0] + "_ocr_results.html"
+        
     # Check if the file exists
     if not os.path.exists(pdf_path):
         print(f"Error: File {pdf_path} not found.")
         exit(1)
-    
-    # Set HTML output path if not specified
-    html_output = args.html
-    if not html_output:
-        # Use the same filename but with .html extension
-        html_output = os.path.splitext(pdf_path)[0] + "_ocr_results.html"
         
     # Convert PDF to images using PyMuPDF
     print(f"Converting PDF to images: {pdf_path}")
