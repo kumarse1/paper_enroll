@@ -1,0 +1,1122 @@
+[
+    {
+        "form_type": "Health Information Form",
+        "real_values": [
+            {
+                "word": "&",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 304,
+                    "y": 119,
+                    "width": 247,
+                    "height": 41
+                }
+            },
+            {
+                "word": "HEALTH",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1179,
+                    "y": 118,
+                    "width": 432,
+                    "height": 43
+                }
+            },
+            {
+                "word": "INFORMATION Fairfax County",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 395,
+                    "y": 183,
+                    "width": 129,
+                    "height": 31
+                }
+            },
+            {
+                "word": "Complete this form every school year to inform us about your student's PUBLIC SCHOOLS",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 376,
+                    "y": 221,
+                    "width": 104,
+                    "height": 31
+                }
+            },
+            {
+                "word": "existing and new health conditions that affect your student's school day ENGAGE INSPIRE \u00a9 THRIVE This form is necessary to inform the Public Health Nurse (PHN) of your child's health status and to plan for health needs that may impact his/her school day.",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 193,
+                    "y": 325,
+                    "width": 176,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Information is only shared with required school staff, as needed.",
+                "confidence": 93,
+                "bounding_box": {
+                    "x": 1178,
+                    "y": 325,
+                    "width": 176,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Information provided on this form is protected by the Family Educational Rights and Privacy Act (FERPA) as part of the student's education record and is securely stored in the health room.",
+                "confidence": 92,
+                "bounding_box": {
+                    "x": 1752,
+                    "y": 370,
+                    "width": 206,
+                    "height": 30
+                }
+            },
+            {
+                "word": "De-identified, aggregate health data is also used by Fairfax County Public Schools (FCPS) and the Fairfax County Health Department (FCHD) to complete required public health reporting to the Virginia Department of Education and to monitor health needs in the school community.",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1515,
+                    "y": 461,
+                    "width": 51,
+                    "height": 26
+                }
+            },
+            {
+                "word": "For any changes to your",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1899,
+                    "y": 460,
+                    "width": 89,
+                    "height": 27
+                }
+            },
+            {
+                "word": "health condition during the school year or questions regarding this form, please contact the PHN through the health room at your",
+                "confidence": 95,
+                "bounding_box": {
+                    "x": 1705,
+                    "y": 505,
+                    "width": 104,
+                    "height": 27
+                }
+            },
+            {
+                "word": "school. Section A: Demographics: School Year",
+                "confidence": 95,
+                "bounding_box": {
+                    "x": 311,
+                    "y": 715,
+                    "width": 101,
+                    "height": 27
+                }
+            },
+            {
+                "word": "School Name",
+                "confidence": 95,
+                "bounding_box": {
+                    "x": 707,
+                    "y": 715,
+                    "width": 90,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Grade",
+                "confidence": 91,
+                "bounding_box": {
+                    "x": 1229,
+                    "y": 711,
+                    "width": 285,
+                    "height": 44
+                }
+            },
+            {
+                "word": "Teacher/Counselor",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1670,
+                    "y": 715,
+                    "width": 117,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Gender: CJ Male",
+                "confidence": 91,
+                "bounding_box": {
+                    "x": 2030,
+                    "y": 757,
+                    "width": 176,
+                    "height": 35
+                }
+            },
+            {
+                "word": "Non-Binary Parent/Legal Guardian Name",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 563,
+                    "y": 818,
+                    "width": 89,
+                    "height": 26
+                }
+            },
+            {
+                "word": "Home Phone Number",
+                "confidence": 95,
+                "bounding_box": {
+                    "x": 1187,
+                    "y": 817,
+                    "width": 60,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Cell Phone Number",
+                "confidence": 87,
+                "bounding_box": {
+                    "x": 1683,
+                    "y": 817,
+                    "width": 84,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Work Phone Number Parent/Legal Guardian Name",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 563,
+                    "y": 920,
+                    "width": 89,
+                    "height": 26
+                }
+            },
+            {
+                "word": "Home Phone Number",
+                "confidence": 95,
+                "bounding_box": {
+                    "x": 1187,
+                    "y": 919,
+                    "width": 60,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Cell Phone Number",
+                "confidence": 87,
+                "bounding_box": {
+                    "x": 1683,
+                    "y": 919,
+                    "width": 84,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Work Phone Number Section B: Severe or Life-Threatening Health Conditions: Condition",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 492,
+                    "y": 1079,
+                    "width": 110,
+                    "height": 30
+                }
+            },
+            {
+                "word": "Check",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 790,
+                    "y": 1098,
+                    "width": 173,
+                    "height": 30
+                }
+            },
+            {
+                "word": "Comment if Yes",
+                "confidence": 82,
+                "bounding_box": {
+                    "x": 784,
+                    "y": 1180,
+                    "width": 41,
+                    "height": 41
+                }
+            },
+            {
+                "word": "[_]",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 866,
+                    "y": 1185,
+                    "width": 98,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Foods: Insect Sting, Severe Allergies/Anaphylaxis",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 650,
+                    "y": 1348,
+                    "width": 181,
+                    "height": 35
+                }
+            },
+            {
+                "word": "Epinephrine prescribed?",
+                "confidence": 68,
+                "bounding_box": {
+                    "x": 1180,
+                    "y": 1343,
+                    "width": 41,
+                    "height": 41
+                }
+            },
+            {
+                "word": "[] Yes",
+                "confidence": 51,
+                "bounding_box": {
+                    "x": 1308,
+                    "y": 1343,
+                    "width": 94,
+                    "height": 41
+                }
+            },
+            {
+                "word": "[[]No Epinephrine injection previously given?",
+                "confidence": 59,
+                "bounding_box": {
+                    "x": 1415,
+                    "y": 1397,
+                    "width": 94,
+                    "height": 41
+                }
+            },
+            {
+                "word": "[_]No",
+                "confidence": 94,
+                "bounding_box": {
+                    "x": 1674,
+                    "y": 1402,
+                    "width": 26,
+                    "height": 27
+                }
+            },
+            {
+                "word": "If yes, date of injection: Triggers:",
+                "confidence": 67,
+                "bounding_box": {
+                    "x": 949,
+                    "y": 1456,
+                    "width": 270,
+                    "height": 41
+                }
+            },
+            {
+                "word": "[_]Environmental",
+                "confidence": 75,
+                "bounding_box": {
+                    "x": 1457,
+                    "y": 1456,
+                    "width": 41,
+                    "height": 41
+                }
+            },
+            {
+                "word": "[_] Upper Respiratory Infection",
+                "confidence": 84,
+                "bounding_box": {
+                    "x": 1967,
+                    "y": 1456,
+                    "width": 41,
+                    "height": 41
+                }
+            },
+            {
+                "word": "[_] Other: Asthma",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 278,
+                    "y": 1514,
+                    "width": 104,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Inhaler prescribed?",
+                "confidence": 62,
+                "bounding_box": {
+                    "x": 1102,
+                    "y": 1514,
+                    "width": 147,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Nebulizer Treatment prescribed? Number of Emergency Room (ER) Visits in the last calendar year: [_] Type",
+                "confidence": 61,
+                "bounding_box": {
+                    "x": 953,
+                    "y": 1626,
+                    "width": 8,
+                    "height": 26
+                }
+            },
+            {
+                "word": "|",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 977,
+                    "y": 1626,
+                    "width": 76,
+                    "height": 34
+                }
+            },
+            {
+                "word": "Type 2",
+                "confidence": 94,
+                "bounding_box": {
+                    "x": 1155,
+                    "y": 1623,
+                    "width": 147,
+                    "height": 35
+                }
+            },
+            {
+                "word": "Diagnosis Date:",
+                "confidence": 95,
+                "bounding_box": {
+                    "x": 1417,
+                    "y": 1624,
+                    "width": 86,
+                    "height": 26
+                }
+            },
+            {
+                "word": "Name of emergency medication: Glucose Monitoring:",
+                "confidence": 53,
+                "bounding_box": {
+                    "x": 1125,
+                    "y": 1674,
+                    "width": 133,
+                    "height": 41
+                }
+            },
+            {
+                "word": "[[]CGM",
+                "confidence": 93,
+                "bounding_box": {
+                    "x": 1533,
+                    "y": 1679,
+                    "width": 233,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Administration: Type of Seizure:",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1062,
+                    "y": 1731,
+                    "width": 68,
+                    "height": 26
+                }
+            },
+            {
+                "word": "Date of last seizure: Emergency Medication Needed at school?",
+                "confidence": 83,
+                "bounding_box": {
+                    "x": 1449,
+                    "y": 1781,
+                    "width": 101,
+                    "height": 41
+                }
+            },
+            {
+                "word": "[]Yes",
+                "confidence": 83,
+                "bounding_box": {
+                    "x": 1572,
+                    "y": 1781,
+                    "width": 94,
+                    "height": 41
+                }
+            },
+            {
+                "word": "[_]No",
+                "confidence": 92,
+                "bounding_box": {
+                    "x": 1705,
+                    "y": 1785,
+                    "width": 72,
+                    "height": 27
+                }
+            },
+            {
+                "word": "VNS implanted?",
+                "confidence": 51,
+                "bounding_box": {
+                    "x": 2045,
+                    "y": 1781,
+                    "width": 41,
+                    "height": 41
+                }
+            },
+            {
+                "word": "[] Yes",
+                "confidence": 65,
+                "bounding_box": {
+                    "x": 2177,
+                    "y": 1781,
+                    "width": 94,
+                    "height": 41
+                }
+            },
+            {
+                "word": "[_]No Section C: Current",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 465,
+                    "y": 1842,
+                    "width": 118,
+                    "height": 30
+                }
+            },
+            {
+                "word": "Health Conditions:",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 970,
+                    "y": 1917,
+                    "width": 174,
+                    "height": 30
+                }
+            },
+            {
+                "word": "Comment (Please provide details) if",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 695,
+                    "y": 1957,
+                    "width": 33,
+                    "height": 21
+                }
+            },
+            {
+                "word": "Yes |",
+                "confidence": 78,
+                "bounding_box": {
+                    "x": 661,
+                    "y": 2149,
+                    "width": 20,
+                    "height": 116
+                }
+            },
+            {
+                "word": "| |",
+                "confidence": 53,
+                "bounding_box": {
+                    "x": 689,
+                    "y": 2311,
+                    "width": 39,
+                    "height": 60
+                }
+            },
+            {
+                "word": "| | Endocrine Disorder (other than Diabetes) Food Intolerance",
+                "confidence": 88,
+                "bounding_box": {
+                    "x": 388,
+                    "y": 2564,
+                    "width": 106,
+                    "height": 70
+                }
+            },
+            {
+                "word": "Foods:",
+                "confidence": 68,
+                "bounding_box": {
+                    "x": 922,
+                    "y": 2626,
+                    "width": 4,
+                    "height": 4
+                }
+            },
+            {
+                "word": "-",
+                "confidence": 65,
+                "bounding_box": {
+                    "x": 1003,
+                    "y": 2626,
+                    "width": 75,
+                    "height": 4
+                }
+            },
+            {
+                "word": "\u2014",
+                "confidence": 68,
+                "bounding_box": {
+                    "x": 1168,
+                    "y": 2626,
+                    "width": 4,
+                    "height": 4
+                }
+            },
+            {
+                "word": "- Gastrointestinal/Digestive Distress",
+                "confidence": 83,
+                "bounding_box": {
+                    "x": 1335,
+                    "y": 2627,
+                    "width": 55,
+                    "height": 26
+                }
+            },
+            {
+                "word": "Yes |",
+                "confidence": 65,
+                "bounding_box": {
+                    "x": 694,
+                    "y": 2705,
+                    "width": 61,
+                    "height": 119
+                }
+            },
+            {
+                "word": "C] Lang SS/SE-71",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 266,
+                    "y": 3205,
+                    "width": 90,
+                    "height": 32
+                }
+            },
+            {
+                "word": "(5/23)",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 372,
+                    "y": 3205,
+                    "width": 125,
+                    "height": 32
+                }
+            },
+            {
+                "word": "(OVER)",
+                "confidence": 95,
+                "bounding_box": {
+                    "x": 2421,
+                    "y": 261,
+                    "width": 2322,
+                    "height": 2935
+                }
+            }
+        ]
+    },
+    {
+        "form_type": "Enrollment Form",
+        "real_values": [
+            {
+                "word": "HEALTH",
+                "confidence": 93,
+                "bounding_box": {
+                    "x": 1179,
+                    "y": 118,
+                    "width": 431,
+                    "height": 42
+                }
+            },
+            {
+                "word": "INFORMATION Fairfax County",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 395,
+                    "y": 183,
+                    "width": 128,
+                    "height": 31
+                }
+            },
+            {
+                "word": "Complete this form every school year to inform us about your student's PUBLIC SCHOOLS",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 376,
+                    "y": 221,
+                    "width": 104,
+                    "height": 31
+                }
+            },
+            {
+                "word": "existing and new health conditions that affect your student's school day ENGAGE \u00a9 INSPIRE \u00a9 THRIVE Last Name",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 317,
+                    "y": 372,
+                    "width": 83,
+                    "height": 30
+                }
+            },
+            {
+                "word": "First Name",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1221,
+                    "y": 372,
+                    "width": 81,
+                    "height": 30
+                }
+            },
+            {
+                "word": "Date of Birth ection D: Current Health Conditions, Continued: Check if Yes Muscle/Bone/Joint/Arthritis",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 553,
+                    "y": 609,
+                    "width": 92,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Please specify: [_] Brain Injury/Concussion/Date Diagnosed: [_] Cerebral Palsy",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1093,
+                    "y": 735,
+                    "width": 92,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Other: Skin Condition",
+                "confidence": 79,
+                "bounding_box": {
+                    "x": 361,
+                    "y": 780,
+                    "width": 29,
+                    "height": 69
+                }
+            },
+            {
+                "word": "| Vision Conditions",
+                "confidence": 83,
+                "bounding_box": {
+                    "x": 407,
+                    "y": 860,
+                    "width": 41,
+                    "height": 41
+                }
+            },
+            {
+                "word": "[_] Contacts/Glasses",
+                "confidence": 87,
+                "bounding_box": {
+                    "x": 1130,
+                    "y": 860,
+                    "width": 41,
+                    "height": 41
+                }
+            },
+            {
+                "word": "[_] Non-Correctable",
+                "confidence": 69,
+                "bounding_box": {
+                    "x": 1525,
+                    "y": 860,
+                    "width": 41,
+                    "height": 41
+                }
+            },
+            {
+                "word": "[_] Other: | Other",
+                "confidence": 95,
+                "bounding_box": {
+                    "x": 227,
+                    "y": 908,
+                    "width": 93,
+                    "height": 69
+                }
+            },
+            {
+                "word": "Health",
+                "confidence": 88,
+                "bounding_box": {
+                    "x": 336,
+                    "y": 908,
+                    "width": 174,
+                    "height": 69
+                }
+            },
+            {
+                "word": "Conditions",
+                "confidence": 56,
+                "bounding_box": {
+                    "x": 526,
+                    "y": 908,
+                    "width": 81,
+                    "height": 69
+                }
+            },
+            {
+                "word": "|",
+                "confidence": 83,
+                "bounding_box": {
+                    "x": 692,
+                    "y": 924,
+                    "width": 41,
+                    "height": 41
+                }
+            },
+            {
+                "word": "[_] Autism",
+                "confidence": 78,
+                "bounding_box": {
+                    "x": 984,
+                    "y": 924,
+                    "width": 40,
+                    "height": 41
+                }
+            },
+            {
+                "word": "[_] Down Syndrome",
+                "confidence": 78,
+                "bounding_box": {
+                    "x": 1384,
+                    "y": 924,
+                    "width": 41,
+                    "height": 41
+                }
+            },
+            {
+                "word": "[_] Other: Emotional/Mental Health Conditions:",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 795,
+                    "y": 1057,
+                    "width": 127,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Provider Diagnosed",
+                "confidence": 86,
+                "bounding_box": {
+                    "x": 1112,
+                    "y": 1052,
+                    "width": 94,
+                    "height": 41
+                }
+            },
+            {
+                "word": "[_]No",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1402,
+                    "y": 1057,
+                    "width": 92,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Under Treatment",
+                "confidence": 80,
+                "bounding_box": {
+                    "x": 1798,
+                    "y": 1052,
+                    "width": 94,
+                    "height": 41
+                }
+            },
+            {
+                "word": "[_]No Provider Diagnosed",
+                "confidence": 86,
+                "bounding_box": {
+                    "x": 1112,
+                    "y": 1116,
+                    "width": 94,
+                    "height": 41
+                }
+            },
+            {
+                "word": "[_]No",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1402,
+                    "y": 1121,
+                    "width": 92,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Under Treatment",
+                "confidence": 78,
+                "bounding_box": {
+                    "x": 1798,
+                    "y": 1116,
+                    "width": 94,
+                    "height": 41
+                }
+            },
+            {
+                "word": "[_]No Depression",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 301,
+                    "y": 1185,
+                    "width": 127,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Provider Diagnosed",
+                "confidence": 86,
+                "bounding_box": {
+                    "x": 1112,
+                    "y": 1180,
+                    "width": 94,
+                    "height": 41
+                }
+            },
+            {
+                "word": "[_]No",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1402,
+                    "y": 1185,
+                    "width": 92,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Under Treatment",
+                "confidence": 78,
+                "bounding_box": {
+                    "x": 1798,
+                    "y": 1180,
+                    "width": 94,
+                    "height": 41
+                }
+            },
+            {
+                "word": "[_]No Eating Disorder",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 373,
+                    "y": 1247,
+                    "width": 127,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Provider Diagnosed",
+                "confidence": 67,
+                "bounding_box": {
+                    "x": 1112,
+                    "y": 1243,
+                    "width": 94,
+                    "height": 40
+                }
+            },
+            {
+                "word": "[_]No",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1402,
+                    "y": 1247,
+                    "width": 92,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Under Treatment",
+                "confidence": 72,
+                "bounding_box": {
+                    "x": 1798,
+                    "y": 1243,
+                    "width": 94,
+                    "height": 40
+                }
+            },
+            {
+                "word": "[_]No Other:",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 227,
+                    "y": 1310,
+                    "width": 127,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Provider Diagnosed",
+                "confidence": 71,
+                "bounding_box": {
+                    "x": 1112,
+                    "y": 1305,
+                    "width": 94,
+                    "height": 41
+                }
+            },
+            {
+                "word": "[_]No",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1402,
+                    "y": 1310,
+                    "width": 92,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Under Treatment",
+                "confidence": 81,
+                "bounding_box": {
+                    "x": 1798,
+                    "y": 1305,
+                    "width": 94,
+                    "height": 41
+                }
+            },
+            {
+                "word": "[_]No ection E: Health Procedures: The Fairfax County Health Department provides referral information to community medical resources providing free physical examinations. Visit https://www.fairfaxcounty.gov/health/clinics. If your child has a health condition, does your child require any health procedures or need any special equipment during the school days? you answered Yes, please describe: Condition",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 492,
+                    "y": 519,
+                    "width": 174,
+                    "height": 30
+                }
+            },
+            {
+                "word": "Comment (Please provide details) Neurological (other than seizures) Section F: List all medications and dosages your child receives on a regular basis and indicate which ones to be taken at school: Parent or guardian is responsible for providing the school with any medication, special food, equipment that the student may require during the day.",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 841,
+                    "y": 1935,
+                    "width": 232,
+                    "height": 40
+                }
+            },
+            {
+                "word": "Medication, Procedure Authorization, and Physical Education (PE) forms may be found at https://www.fcps.edu/registration/forms or obtained in the school Health Room. Parental Consent:",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 426,
+                    "y": 2062,
+                    "width": 9,
+                    "height": 28
+                }
+            },
+            {
+                "word": "I agree to allow my child's healthcare provider(s) to discuss information contained in this form with FCPS",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 2206,
+                    "y": 2061,
+                    "width": 74,
+                    "height": 30
+                }
+            },
+            {
+                "word": "staff and School",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 247,
+                    "y": 2110,
+                    "width": 103,
+                    "height": 30
+                }
+            },
+            {
+                "word": "Public Health Nurse. Healthcare Provider Name",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 947,
+                    "y": 2273,
+                    "width": 159,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Healthcare Provider Phone Number Parent/Guardian Name (Print or Type)",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 891,
+                    "y": 2416,
+                    "width": 242,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Parent/Guardian Signature Public Health Nurse Use Only Below This Line [_] HIF Reviewed",
+                "confidence": 82,
+                "bounding_box": {
+                    "x": 436,
+                    "y": 2539,
+                    "width": 41,
+                    "height": 41
+                }
+            },
+            {
+                "word": "[_] Follow Protocol",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 877,
+                    "y": 2543,
+                    "width": 63,
+                    "height": 34
+                }
+            },
+            {
+                "word": "(SH Care Emerg.-Temp. Care Guidelines)",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1592,
+                    "y": 2543,
+                    "width": 108,
+                    "height": 29
+                }
+            },
+            {
+                "word": "Health Condition List (_] Mental Health Condition List",
+                "confidence": 93,
+                "bounding_box": {
+                    "x": 685,
+                    "y": 2609,
+                    "width": 110,
+                    "height": 30
+                }
+            },
+            {
+                "word": "Action Plan/Health Plan or Procedure Public Health Nurse Name",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 803,
+                    "y": 3152,
+                    "width": 92,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Public Health Nurse Signature SS/SE-71",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 266,
+                    "y": 3205,
+                    "width": 90,
+                    "height": 31
+                }
+            },
+            {
+                "word": "(5/23)",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 372,
+                    "y": 3205,
+                    "width": 90,
+                    "height": 31
+                }
+            }
+        ]
+    }
+]

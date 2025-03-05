@@ -1,0 +1,8 @@
+{
+    "expected_fields": {
+        "First Name": {"type": "string", "pattern": "^[A-Za-z]+$", "required": true},
+        "Last Name": {"type": "string", "pattern": "^[A-Za-z]+$", "required": true},
+        "SSN": {"type": "string", "pattern": "^\\d{3}-\\d{2}-\\d{4}$", "required": true},
+        "Date of Birth": {"type": "date", "pattern": "^\\d{2}/\\d{2}/\\d{4}$", "required": true}
+    }
+}

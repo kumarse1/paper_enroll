@@ -1,0 +1,6642 @@
+[
+    {
+        "words": [
+            {
+                "word": "&",
+                "confidence": 80,
+                "bounding_box": {
+                    "x": 209,
+                    "y": 70,
+                    "width": 95,
+                    "height": 94
+                }
+            },
+            {
+                "word": "HEALTH",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 932,
+                    "y": 119,
+                    "width": 247,
+                    "height": 41
+                }
+            },
+            {
+                "word": "INFORMATION",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1196,
+                    "y": 118,
+                    "width": 432,
+                    "height": 43
+                }
+            },
+            {
+                "word": "Fairfax",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 131,
+                    "y": 163,
+                    "width": 122,
+                    "height": 55
+                }
+            },
+            {
+                "word": "County",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 259,
+                    "y": 168,
+                    "width": 136,
+                    "height": 51
+                }
+            },
+            {
+                "word": "Complete",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 807,
+                    "y": 183,
+                    "width": 129,
+                    "height": 31
+                }
+            },
+            {
+                "word": "this",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 946,
+                    "y": 183,
+                    "width": 46,
+                    "height": 24
+                }
+            },
+            {
+                "word": "form",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1003,
+                    "y": 183,
+                    "width": 62,
+                    "height": 24
+                }
+            },
+            {
+                "word": "every",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1075,
+                    "y": 190,
+                    "width": 72,
+                    "height": 24
+                }
+            },
+            {
+                "word": "school",
+                "confidence": 95,
+                "bounding_box": {
+                    "x": 1158,
+                    "y": 183,
+                    "width": 84,
+                    "height": 24
+                }
+            },
+            {
+                "word": "year",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1253,
+                    "y": 190,
+                    "width": 57,
+                    "height": 24
+                }
+            },
+            {
+                "word": "to",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1319,
+                    "y": 188,
+                    "width": 25,
+                    "height": 19
+                }
+            },
+            {
+                "word": "inform",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1354,
+                    "y": 183,
+                    "width": 88,
+                    "height": 24
+                }
+            },
+            {
+                "word": "us",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1453,
+                    "y": 191,
+                    "width": 27,
+                    "height": 16
+                }
+            },
+            {
+                "word": "about",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1490,
+                    "y": 183,
+                    "width": 73,
+                    "height": 24
+                }
+            },
+            {
+                "word": "your",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1573,
+                    "y": 190,
+                    "width": 60,
+                    "height": 24
+                }
+            },
+            {
+                "word": "student's",
+                "confidence": 94,
+                "bounding_box": {
+                    "x": 1643,
+                    "y": 183,
+                    "width": 112,
+                    "height": 24
+                }
+            },
+            {
+                "word": "PUBLIC",
+                "confidence": 95,
+                "bounding_box": {
+                    "x": 131,
+                    "y": 214,
+                    "width": 97,
+                    "height": 25
+                }
+            },
+            {
+                "word": "SCHOOLS",
+                "confidence": 95,
+                "bounding_box": {
+                    "x": 239,
+                    "y": 214,
+                    "width": 137,
+                    "height": 25
+                }
+            },
+            {
+                "word": "existing",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 805,
+                    "y": 221,
+                    "width": 104,
+                    "height": 31
+                }
+            },
+            {
+                "word": "and",
+                "confidence": 95,
+                "bounding_box": {
+                    "x": 919,
+                    "y": 221,
+                    "width": 47,
+                    "height": 24
+                }
+            },
+            {
+                "word": "new",
+                "confidence": 95,
+                "bounding_box": {
+                    "x": 976,
+                    "y": 228,
+                    "width": 53,
+                    "height": 17
+                }
+            },
+            {
+                "word": "health",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1040,
+                    "y": 221,
+                    "width": 79,
+                    "height": 24
+                }
+            },
+            {
+                "word": "conditions",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1129,
+                    "y": 221,
+                    "width": 137,
+                    "height": 24
+                }
+            },
+            {
+                "word": "that",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1277,
+                    "y": 221,
+                    "width": 48,
+                    "height": 24
+                }
+            },
+            {
+                "word": "affect",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1335,
+                    "y": 221,
+                    "width": 74,
+                    "height": 24
+                }
+            },
+            {
+                "word": "your",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1419,
+                    "y": 228,
+                    "width": 61,
+                    "height": 24
+                }
+            },
+            {
+                "word": "student's",
+                "confidence": 77,
+                "bounding_box": {
+                    "x": 1489,
+                    "y": 221,
+                    "width": 113,
+                    "height": 24
+                }
+            },
+            {
+                "word": "school",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1613,
+                    "y": 221,
+                    "width": 83,
+                    "height": 24
+                }
+            },
+            {
+                "word": "day",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1707,
+                    "y": 221,
+                    "width": 47,
+                    "height": 31
+                }
+            },
+            {
+                "word": "ENGAGE",
+                "confidence": 92,
+                "bounding_box": {
+                    "x": 131,
+                    "y": 250,
+                    "width": 88,
+                    "height": 14
+                }
+            },
+            {
+                "word": "INSPIRE",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 228,
+                    "y": 250,
+                    "width": 79,
+                    "height": 14
+                }
+            },
+            {
+                "word": "\u00a9",
+                "confidence": 66,
+                "bounding_box": {
+                    "x": 300,
+                    "y": 246,
+                    "width": 9,
+                    "height": 26
+                }
+            },
+            {
+                "word": "THRIVE",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 315,
+                    "y": 250,
+                    "width": 60,
+                    "height": 14
+                }
+            },
+            {
+                "word": "This",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 132,
+                    "y": 280,
+                    "width": 65,
+                    "height": 27
+                }
+            },
+            {
+                "word": "form",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 209,
+                    "y": 280,
+                    "width": 71,
+                    "height": 27
+                }
+            },
+            {
+                "word": "is",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 292,
+                    "y": 280,
+                    "width": 22,
+                    "height": 27
+                }
+            },
+            {
+                "word": "necessary",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 326,
+                    "y": 288,
+                    "width": 143,
+                    "height": 27
+                }
+            },
+            {
+                "word": "to",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 481,
+                    "y": 285,
+                    "width": 28,
+                    "height": 22
+                }
+            },
+            {
+                "word": "inform",
+                "confidence": 95,
+                "bounding_box": {
+                    "x": 520,
+                    "y": 280,
+                    "width": 99,
+                    "height": 27
+                }
+            },
+            {
+                "word": "the",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 631,
+                    "y": 280,
+                    "width": 43,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Public",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 687,
+                    "y": 280,
+                    "width": 92,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Health",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 792,
+                    "y": 280,
+                    "width": 97,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Nurse",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 901,
+                    "y": 281,
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            {
+                "word": "(PHN)",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1000,
+                    "y": 281,
+                    "width": 97,
+                    "height": 31
+                }
+            },
+            {
+                "word": "of",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1109,
+                    "y": 280,
+                    "width": 32,
+                    "height": 27
+                }
+            },
+            {
+                "word": "your",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1149,
+                    "y": 288,
+                    "width": 69,
+                    "height": 27
+                }
+            },
+            {
+                "word": "child's",
+                "confidence": 85,
+                "bounding_box": {
+                    "x": 1227,
+                    "y": 280,
+                    "width": 95,
+                    "height": 27
+                }
+            },
+            {
+                "word": "health",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1334,
+                    "y": 280,
+                    "width": 88,
+                    "height": 27
+                }
+            },
+            {
+                "word": "status",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1435,
+                    "y": 285,
+                    "width": 82,
+                    "height": 22
+                }
+            },
+            {
+                "word": "and",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1529,
+                    "y": 280,
+                    "width": 52,
+                    "height": 27
+                }
+            },
+            {
+                "word": "to",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1592,
+                    "y": 285,
+                    "width": 28,
+                    "height": 22
+                }
+            },
+            {
+                "word": "plan",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1631,
+                    "y": 280,
+                    "width": 62,
+                    "height": 35
+                }
+            },
+            {
+                "word": "for",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1705,
+                    "y": 280,
+                    "width": 43,
+                    "height": 27
+                }
+            },
+            {
+                "word": "health",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1759,
+                    "y": 280,
+                    "width": 88,
+                    "height": 27
+                }
+            },
+            {
+                "word": "needs",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1860,
+                    "y": 280,
+                    "width": 82,
+                    "height": 27
+                }
+            },
+            {
+                "word": "that",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1954,
+                    "y": 280,
+                    "width": 55,
+                    "height": 27
+                }
+            },
+            {
+                "word": "may",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 2020,
+                    "y": 288,
+                    "width": 62,
+                    "height": 27
+                }
+            },
+            {
+                "word": "impact",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 2094,
+                    "y": 280,
+                    "width": 100,
+                    "height": 35
+                }
+            },
+            {
+                "word": "his/her",
+                "confidence": 95,
+                "bounding_box": {
+                    "x": 2205,
+                    "y": 280,
+                    "width": 101,
+                    "height": 27
+                }
+            },
+            {
+                "word": "school",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 2317,
+                    "y": 280,
+                    "width": 94,
+                    "height": 27
+                }
+            },
+            {
+                "word": "day.",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 133,
+                    "y": 325,
+                    "width": 60,
+                    "height": 35
+                }
+            },
+            {
+                "word": "Information",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 216,
+                    "y": 325,
+                    "width": 176,
+                    "height": 27
+                }
+            },
+            {
+                "word": "is",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 405,
+                    "y": 325,
+                    "width": 21,
+                    "height": 27
+                }
+            },
+            {
+                "word": "only",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 438,
+                    "y": 325,
+                    "width": 64,
+                    "height": 35
+                }
+            },
+            {
+                "word": "shared",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 514,
+                    "y": 325,
+                    "width": 96,
+                    "height": 27
+                }
+            },
+            {
+                "word": "with",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 622,
+                    "y": 325,
+                    "width": 64,
+                    "height": 27
+                }
+            },
+            {
+                "word": "required",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 698,
+                    "y": 325,
+                    "width": 122,
+                    "height": 35
+                }
+            },
+            {
+                "word": "school",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 832,
+                    "y": 325,
+                    "width": 95,
+                    "height": 27
+                }
+            },
+            {
+                "word": "staff,",
+                "confidence": 95,
+                "bounding_box": {
+                    "x": 939,
+                    "y": 325,
+                    "width": 74,
+                    "height": 30
+                }
+            },
+            {
+                "word": "as",
+                "confidence": 95,
+                "bounding_box": {
+                    "x": 1024,
+                    "y": 334,
+                    "width": 29,
+                    "height": 18
+                }
+            },
+            {
+                "word": "needed.",
+                "confidence": 93,
+                "bounding_box": {
+                    "x": 1065,
+                    "y": 325,
+                    "width": 113,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Information",
+                "confidence": 93,
+                "bounding_box": {
+                    "x": 1200,
+                    "y": 325,
+                    "width": 176,
+                    "height": 27
+                }
+            },
+            {
+                "word": "provided",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1388,
+                    "y": 325,
+                    "width": 131,
+                    "height": 35
+                }
+            },
+            {
+                "word": "on",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1530,
+                    "y": 333,
+                    "width": 36,
+                    "height": 19
+                }
+            },
+            {
+                "word": "this",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1577,
+                    "y": 325,
+                    "width": 52,
+                    "height": 27
+                }
+            },
+            {
+                "word": "form",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1641,
+                    "y": 325,
+                    "width": 71,
+                    "height": 27
+                }
+            },
+            {
+                "word": "is",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1724,
+                    "y": 325,
+                    "width": 22,
+                    "height": 27
+                }
+            },
+            {
+                "word": "protected",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1758,
+                    "y": 325,
+                    "width": 137,
+                    "height": 35
+                }
+            },
+            {
+                "word": "by",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1906,
+                    "y": 325,
+                    "width": 36,
+                    "height": 35
+                }
+            },
+            {
+                "word": "the",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1953,
+                    "y": 325,
+                    "width": 44,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Family",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 2009,
+                    "y": 325,
+                    "width": 104,
+                    "height": 35
+                }
+            },
+            {
+                "word": "Educational",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 2125,
+                    "y": 325,
+                    "width": 175,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Rights",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 2314,
+                    "y": 325,
+                    "width": 95,
+                    "height": 35
+                }
+            },
+            {
+                "word": "and",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 133,
+                    "y": 370,
+                    "width": 52,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Privacy",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 197,
+                    "y": 370,
+                    "width": 112,
+                    "height": 35
+                }
+            },
+            {
+                "word": "Act",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 321,
+                    "y": 371,
+                    "width": 52,
+                    "height": 26
+                }
+            },
+            {
+                "word": "(FERPA)",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 384,
+                    "y": 371,
+                    "width": 139,
+                    "height": 31
+                }
+            },
+            {
+                "word": "as",
+                "confidence": 97,
+                "bounding_box": {
+                    "x": 535,
+                    "y": 379,
+                    "width": 29,
+                    "height": 18
+                }
+            },
+            {
+                "word": "part",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 576,
+                    "y": 375,
+                    "width": 56,
+                    "height": 30
+                }
+            },
+            {
+                "word": "of",
+                "confidence": 97,
+                "bounding_box": {
+                    "x": 643,
+                    "y": 370,
+                    "width": 33,
+                    "height": 27
+                }
+            },
+            {
+                "word": "the",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 684,
+                    "y": 370,
+                    "width": 43,
+                    "height": 27
+                }
+            },
+            {
+                "word": "student's",
+                "confidence": 91,
+                "bounding_box": {
+                    "x": 739,
+                    "y": 370,
+                    "width": 127,
+                    "height": 27
+                }
+            },
+            {
+                "word": "education",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 877,
+                    "y": 370,
+                    "width": 145,
+                    "height": 27
+                }
+            },
+            {
+                "word": "record",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1034,
+                    "y": 370,
+                    "width": 93,
+                    "height": 27
+                }
+            },
+            {
+                "word": "and",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1138,
+                    "y": 370,
+                    "width": 53,
+                    "height": 27
+                }
+            },
+            {
+                "word": "is",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1203,
+                    "y": 370,
+                    "width": 22,
+                    "height": 27
+                }
+            },
+            {
+                "word": "securely",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1237,
+                    "y": 370,
+                    "width": 122,
+                    "height": 35
+                }
+            },
+            {
+                "word": "stored",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1371,
+                    "y": 370,
+                    "width": 89,
+                    "height": 27
+                }
+            },
+            {
+                "word": "in",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1473,
+                    "y": 370,
+                    "width": 25,
+                    "height": 27
+                }
+            },
+            {
+                "word": "the",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1510,
+                    "y": 370,
+                    "width": 44,
+                    "height": 27
+                }
+            },
+            {
+                "word": "health",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1566,
+                    "y": 370,
+                    "width": 89,
+                    "height": 27
+                }
+            },
+            {
+                "word": "room.",
+                "confidence": 93,
+                "bounding_box": {
+                    "x": 1667,
+                    "y": 378,
+                    "width": 85,
+                    "height": 19
+                }
+            },
+            {
+                "word": "De-identified,",
+                "confidence": 92,
+                "bounding_box": {
+                    "x": 1775,
+                    "y": 370,
+                    "width": 206,
+                    "height": 30
+                }
+            },
+            {
+                "word": "aggregate",
+                "confidence": 95,
+                "bounding_box": {
+                    "x": 1992,
+                    "y": 375,
+                    "width": 144,
+                    "height": 30
+                }
+            },
+            {
+                "word": "health",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 2148,
+                    "y": 370,
+                    "width": 89,
+                    "height": 27
+                }
+            },
+            {
+                "word": "data",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 2248,
+                    "y": 370,
+                    "width": 62,
+                    "height": 27
+                }
+            },
+            {
+                "word": "is",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 2321,
+                    "y": 370,
+                    "width": 22,
+                    "height": 27
+                }
+            },
+            {
+                "word": "also",
+                "confidence": 95,
+                "bounding_box": {
+                    "x": 133,
+                    "y": 415,
+                    "width": 59,
+                    "height": 27
+                }
+            },
+            {
+                "word": "used",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 203,
+                    "y": 415,
+                    "width": 67,
+                    "height": 27
+                }
+            },
+            {
+                "word": "by",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 281,
+                    "y": 415,
+                    "width": 35,
+                    "height": 35
+                }
+            },
+            {
+                "word": "Fairfax",
+                "confidence": 94,
+                "bounding_box": {
+                    "x": 328,
+                    "y": 415,
+                    "width": 106,
+                    "height": 27
+                }
+            },
+            {
+                "word": "County",
+                "confidence": 94,
+                "bounding_box": {
+                    "x": 445,
+                    "y": 415,
+                    "width": 108,
+                    "height": 35
+                }
+            },
+            {
+                "word": "Public",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 566,
+                    "y": 415,
+                    "width": 93,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Schools",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 671,
+                    "y": 415,
+                    "width": 116,
+                    "height": 27
+                }
+            },
+            {
+                "word": "(FCPS)",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 799,
+                    "y": 415,
+                    "width": 110,
+                    "height": 32
+                }
+            },
+            {
+                "word": "and",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 920,
+                    "y": 415,
+                    "width": 53,
+                    "height": 27
+                }
+            },
+            {
+                "word": "the",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 984,
+                    "y": 415,
+                    "width": 43,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Fairfax",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1040,
+                    "y": 415,
+                    "width": 105,
+                    "height": 27
+                }
+            },
+            {
+                "word": "County",
+                "confidence": 95,
+                "bounding_box": {
+                    "x": 1157,
+                    "y": 415,
+                    "width": 108,
+                    "height": 35
+                }
+            },
+            {
+                "word": "Health",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1278,
+                    "y": 415,
+                    "width": 96,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Department",
+                "confidence": 93,
+                "bounding_box": {
+                    "x": 1387,
+                    "y": 416,
+                    "width": 174,
+                    "height": 34
+                }
+            },
+            {
+                "word": "(FCHD)",
+                "confidence": 91,
+                "bounding_box": {
+                    "x": 1573,
+                    "y": 415,
+                    "width": 122,
+                    "height": 32
+                }
+            },
+            {
+                "word": "to",
+                "confidence": 95,
+                "bounding_box": {
+                    "x": 1707,
+                    "y": 420,
+                    "width": 28,
+                    "height": 22
+                }
+            },
+            {
+                "word": "complete",
+                "confidence": 95,
+                "bounding_box": {
+                    "x": 1745,
+                    "y": 415,
+                    "width": 136,
+                    "height": 35
+                }
+            },
+            {
+                "word": "required",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1893,
+                    "y": 415,
+                    "width": 122,
+                    "height": 35
+                }
+            },
+            {
+                "word": "public",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 2027,
+                    "y": 415,
+                    "width": 91,
+                    "height": 35
+                }
+            },
+            {
+                "word": "health",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 2130,
+                    "y": 415,
+                    "width": 89,
+                    "height": 27
+                }
+            },
+            {
+                "word": "reporting",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 2231,
+                    "y": 415,
+                    "width": 135,
+                    "height": 35
+                }
+            },
+            {
+                "word": "to",
+                "confidence": 97,
+                "bounding_box": {
+                    "x": 2377,
+                    "y": 420,
+                    "width": 28,
+                    "height": 22
+                }
+            },
+            {
+                "word": "the",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 133,
+                    "y": 460,
+                    "width": 43,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Virginia",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 188,
+                    "y": 460,
+                    "width": 124,
+                    "height": 35
+                }
+            },
+            {
+                "word": "Department",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 323,
+                    "y": 461,
+                    "width": 175,
+                    "height": 34
+                }
+            },
+            {
+                "word": "of",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 509,
+                    "y": 460,
+                    "width": 32,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Education",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 550,
+                    "y": 460,
+                    "width": 149,
+                    "height": 27
+                }
+            },
+            {
+                "word": "and",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 711,
+                    "y": 460,
+                    "width": 52,
+                    "height": 27
+                }
+            },
+            {
+                "word": "to",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 774,
+                    "y": 465,
+                    "width": 28,
+                    "height": 22
+                }
+            },
+            {
+                "word": "monitor",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 814,
+                    "y": 460,
+                    "width": 117,
+                    "height": 27
+                }
+            },
+            {
+                "word": "health",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 941,
+                    "y": 460,
+                    "width": 89,
+                    "height": 27
+                }
+            },
+            {
+                "word": "needs",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1043,
+                    "y": 460,
+                    "width": 82,
+                    "height": 27
+                }
+            },
+            {
+                "word": "in",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1138,
+                    "y": 460,
+                    "width": 26,
+                    "height": 27
+                }
+            },
+            {
+                "word": "the",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1175,
+                    "y": 460,
+                    "width": 44,
+                    "height": 27
+                }
+            },
+            {
+                "word": "school",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1231,
+                    "y": 460,
+                    "width": 95,
+                    "height": 27
+                }
+            },
+            {
+                "word": "community.",
+                "confidence": 95,
+                "bounding_box": {
+                    "x": 1337,
+                    "y": 460,
+                    "width": 178,
+                    "height": 35
+                }
+            },
+            {
+                "word": "For",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1537,
+                    "y": 461,
+                    "width": 51,
+                    "height": 26
+                }
+            },
+            {
+                "word": "any",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1598,
+                    "y": 468,
+                    "width": 52,
+                    "height": 27
+                }
+            },
+            {
+                "word": "changes",
+                "confidence": 95,
+                "bounding_box": {
+                    "x": 1661,
+                    "y": 460,
+                    "width": 119,
+                    "height": 35
+                }
+            },
+            {
+                "word": "to",
+                "confidence": 95,
+                "bounding_box": {
+                    "x": 1792,
+                    "y": 465,
+                    "width": 28,
+                    "height": 22
+                }
+            },
+            {
+                "word": "your",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1830,
+                    "y": 468,
+                    "width": 69,
+                    "height": 27
+                }
+            },
+            {
+                "word": "health",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 2048,
+                    "y": 460,
+                    "width": 89,
+                    "height": 27
+                }
+            },
+            {
+                "word": "condition",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 2148,
+                    "y": 460,
+                    "width": 140,
+                    "height": 27
+                }
+            },
+            {
+                "word": "during",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 2300,
+                    "y": 460,
+                    "width": 96,
+                    "height": 35
+                }
+            },
+            {
+                "word": "the",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 133,
+                    "y": 505,
+                    "width": 43,
+                    "height": 27
+                }
+            },
+            {
+                "word": "school",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 188,
+                    "y": 505,
+                    "width": 95,
+                    "height": 27
+                }
+            },
+            {
+                "word": "year",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 295,
+                    "y": 513,
+                    "width": 64,
+                    "height": 27
+                }
+            },
+            {
+                "word": "or",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 369,
+                    "y": 513,
+                    "width": 31,
+                    "height": 19
+                }
+            },
+            {
+                "word": "questions",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 409,
+                    "y": 505,
+                    "width": 140,
+                    "height": 35
+                }
+            },
+            {
+                "word": "regarding",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 561,
+                    "y": 505,
+                    "width": 142,
+                    "height": 35
+                }
+            },
+            {
+                "word": "this",
+                "confidence": 97,
+                "bounding_box": {
+                    "x": 714,
+                    "y": 505,
+                    "width": 52,
+                    "height": 27
+                }
+            },
+            {
+                "word": "form,",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 778,
+                    "y": 505,
+                    "width": 79,
+                    "height": 30
+                }
+            },
+            {
+                "word": "please",
+                "confidence": 95,
+                "bounding_box": {
+                    "x": 870,
+                    "y": 505,
+                    "width": 91,
+                    "height": 35
+                }
+            },
+            {
+                "word": "contact",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 972,
+                    "y": 510,
+                    "width": 107,
+                    "height": 22
+                }
+            },
+            {
+                "word": "the",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1090,
+                    "y": 505,
+                    "width": 44,
+                    "height": 27
+                }
+            },
+            {
+                "word": "PHN",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1146,
+                    "y": 506,
+                    "width": 72,
+                    "height": 26
+                }
+            },
+            {
+                "word": "through",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1229,
+                    "y": 505,
+                    "width": 115,
+                    "height": 35
+                }
+            },
+            {
+                "word": "the",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1355,
+                    "y": 505,
+                    "width": 44,
+                    "height": 27
+                }
+            },
+            {
+                "word": "health",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1411,
+                    "y": 505,
+                    "width": 89,
+                    "height": 27
+                }
+            },
+            {
+                "word": "room",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1512,
+                    "y": 513,
+                    "width": 77,
+                    "height": 19
+                }
+            },
+            {
+                "word": "at",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1600,
+                    "y": 510,
+                    "width": 26,
+                    "height": 22
+                }
+            },
+            {
+                "word": "your",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1637,
+                    "y": 513,
+                    "width": 68,
+                    "height": 27
+                }
+            },
+            {
+                "word": "school.",
+                "confidence": 95,
+                "bounding_box": {
+                    "x": 1821,
+                    "y": 505,
+                    "width": 104,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Section",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 125,
+                    "y": 554,
+                    "width": 129,
+                    "height": 32
+                }
+            },
+            {
+                "word": "A:",
+                "confidence": 95,
+                "bounding_box": {
+                    "x": 265,
+                    "y": 555,
+                    "width": 41,
+                    "height": 30
+                }
+            },
+            {
+                "word": "Demographics:",
+                "confidence": 95,
+                "bounding_box": {
+                    "x": 320,
+                    "y": 555,
+                    "width": 267,
+                    "height": 38
+                }
+            },
+            {
+                "word": "School",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 126,
+                    "y": 715,
+                    "width": 101,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Year",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 240,
+                    "y": 716,
+                    "width": 71,
+                    "height": 26
+                }
+            },
+            {
+                "word": "School",
+                "confidence": 95,
+                "bounding_box": {
+                    "x": 507,
+                    "y": 715,
+                    "width": 101,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Name",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 620,
+                    "y": 716,
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            {
+                "word": "Grade",
+                "confidence": 95,
+                "bounding_box": {
+                    "x": 1139,
+                    "y": 715,
+                    "width": 90,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Teacher/Counselor",
+                "confidence": 91,
+                "bounding_box": {
+                    "x": 1385,
+                    "y": 711,
+                    "width": 285,
+                    "height": 44
+                }
+            },
+            {
+                "word": "Gender:",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1910,
+                    "y": 715,
+                    "width": 117,
+                    "height": 27
+                }
+            },
+            {
+                "word": "CJ",
+                "confidence": 56,
+                "bounding_box": {
+                    "x": 1910,
+                    "y": 754,
+                    "width": 37,
+                    "height": 36
+                }
+            },
+            {
+                "word": "Male",
+                "confidence": 76,
+                "bounding_box": {
+                    "x": 1955,
+                    "y": 757,
+                    "width": 75,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Non-Binary",
+                "confidence": 91,
+                "bounding_box": {
+                    "x": 2249,
+                    "y": 757,
+                    "width": 176,
+                    "height": 35
+                }
+            },
+            {
+                "word": "Parent/Legal",
+                "confidence": 92,
+                "bounding_box": {
+                    "x": 126,
+                    "y": 817,
+                    "width": 188,
+                    "height": 35
+                }
+            },
+            {
+                "word": "Guardian",
+                "confidence": 95,
+                "bounding_box": {
+                    "x": 326,
+                    "y": 817,
+                    "width": 138,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Name",
+                "confidence": 95,
+                "bounding_box": {
+                    "x": 476,
+                    "y": 818,
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            {
+                "word": "Home",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 861,
+                    "y": 818,
+                    "width": 89,
+                    "height": 26
+                }
+            },
+            {
+                "word": "Phone",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 962,
+                    "y": 817,
+                    "width": 91,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Number",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1065,
+                    "y": 817,
+                    "width": 122,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Cell",
+                "confidence": 95,
+                "bounding_box": {
+                    "x": 1385,
+                    "y": 817,
+                    "width": 60,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Phone",
+                "confidence": 95,
+                "bounding_box": {
+                    "x": 1458,
+                    "y": 817,
+                    "width": 91,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Number",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1561,
+                    "y": 817,
+                    "width": 122,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Work",
+                "confidence": 87,
+                "bounding_box": {
+                    "x": 1910,
+                    "y": 817,
+                    "width": 84,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Phone",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 2006,
+                    "y": 817,
+                    "width": 91,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Number",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 2109,
+                    "y": 817,
+                    "width": 122,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Parent/Legal",
+                "confidence": 92,
+                "bounding_box": {
+                    "x": 126,
+                    "y": 919,
+                    "width": 188,
+                    "height": 35
+                }
+            },
+            {
+                "word": "Guardian",
+                "confidence": 95,
+                "bounding_box": {
+                    "x": 326,
+                    "y": 919,
+                    "width": 138,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Name",
+                "confidence": 95,
+                "bounding_box": {
+                    "x": 476,
+                    "y": 920,
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            {
+                "word": "Home",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 861,
+                    "y": 920,
+                    "width": 89,
+                    "height": 26
+                }
+            },
+            {
+                "word": "Phone",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 962,
+                    "y": 919,
+                    "width": 91,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Number",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1065,
+                    "y": 919,
+                    "width": 122,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Cell",
+                "confidence": 95,
+                "bounding_box": {
+                    "x": 1385,
+                    "y": 919,
+                    "width": 60,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Phone",
+                "confidence": 95,
+                "bounding_box": {
+                    "x": 1458,
+                    "y": 919,
+                    "width": 91,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Number",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1561,
+                    "y": 919,
+                    "width": 122,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Work",
+                "confidence": 87,
+                "bounding_box": {
+                    "x": 1910,
+                    "y": 919,
+                    "width": 84,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Phone",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 2006,
+                    "y": 919,
+                    "width": 91,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Number",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 2109,
+                    "y": 919,
+                    "width": 122,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Section",
+                "confidence": 93,
+                "bounding_box": {
+                    "x": 125,
+                    "y": 1022,
+                    "width": 129,
+                    "height": 32
+                }
+            },
+            {
+                "word": "B:",
+                "confidence": 92,
+                "bounding_box": {
+                    "x": 265,
+                    "y": 1023,
+                    "width": 39,
+                    "height": 30
+                }
+            },
+            {
+                "word": "Severe",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 318,
+                    "y": 1022,
+                    "width": 117,
+                    "height": 32
+                }
+            },
+            {
+                "word": "or",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 445,
+                    "y": 1032,
+                    "width": 40,
+                    "height": 21
+                }
+            },
+            {
+                "word": "Life-Threatening",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 496,
+                    "y": 1022,
+                    "width": 304,
+                    "height": 39
+                }
+            },
+            {
+                "word": "Health",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 812,
+                    "y": 1023,
+                    "width": 118,
+                    "height": 30
+                }
+            },
+            {
+                "word": "Conditions:",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 943,
+                    "y": 1022,
+                    "width": 204,
+                    "height": 32
+                }
+            },
+            {
+                "word": "Condition",
+                "confidence": 95,
+                "bounding_box": {
+                    "x": 316,
+                    "y": 1094,
+                    "width": 176,
+                    "height": 44
+                }
+            },
+            {
+                "word": "Check",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 680,
+                    "y": 1079,
+                    "width": 110,
+                    "height": 30
+                }
+            },
+            {
+                "word": "Comment",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1553,
+                    "y": 1098,
+                    "width": 173,
+                    "height": 30
+                }
+            },
+            {
+                "word": "if",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 686,
+                    "y": 1129,
+                    "width": 27,
+                    "height": 30
+                }
+            },
+            {
+                "word": "Yes",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 721,
+                    "y": 1129,
+                    "width": 63,
+                    "height": 30
+                }
+            },
+            {
+                "word": "[_]",
+                "confidence": 82,
+                "bounding_box": {
+                    "x": 825,
+                    "y": 1180,
+                    "width": 41,
+                    "height": 41
+                }
+            },
+            {
+                "word": "Foods:",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 887,
+                    "y": 1185,
+                    "width": 98,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Insect",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 888,
+                    "y": 1242,
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            {
+                "word": "Sting,",
+                "confidence": 64,
+                "bounding_box": {
+                    "x": 986,
+                    "y": 1220,
+                    "width": 110,
+                    "height": 62
+                }
+            },
+            {
+                "word": "Severe",
+                "confidence": 93,
+                "bounding_box": {
+                    "x": 132,
+                    "y": 1283,
+                    "width": 116,
+                    "height": 30
+                }
+            },
+            {
+                "word": "Allergies/Anaphylaxis",
+                "confidence": 89,
+                "bounding_box": {
+                    "x": 260,
+                    "y": 1283,
+                    "width": 390,
+                    "height": 38
+                }
+            },
+            {
+                "word": "Epinephrine",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 816,
+                    "y": 1348,
+                    "width": 181,
+                    "height": 35
+                }
+            },
+            {
+                "word": "prescribed?",
+                "confidence": 93,
+                "bounding_box": {
+                    "x": 1009,
+                    "y": 1348,
+                    "width": 171,
+                    "height": 35
+                }
+            },
+            {
+                "word": "[]",
+                "confidence": 68,
+                "bounding_box": {
+                    "x": 1202,
+                    "y": 1343,
+                    "width": 41,
+                    "height": 41
+                }
+            },
+            {
+                "word": "Yes",
+                "confidence": 92,
+                "bounding_box": {
+                    "x": 1252,
+                    "y": 1350,
+                    "width": 56,
+                    "height": 26
+                }
+            },
+            {
+                "word": "[[]No",
+                "confidence": 51,
+                "bounding_box": {
+                    "x": 1341,
+                    "y": 1343,
+                    "width": 94,
+                    "height": 41
+                }
+            },
+            {
+                "word": "Epinephrine",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 816,
+                    "y": 1402,
+                    "width": 181,
+                    "height": 35
+                }
+            },
+            {
+                "word": "injection",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1009,
+                    "y": 1402,
+                    "width": 128,
+                    "height": 35
+                }
+            },
+            {
+                "word": "previously",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1150,
+                    "y": 1402,
+                    "width": 155,
+                    "height": 35
+                }
+            },
+            {
+                "word": "given?",
+                "confidence": 93,
+                "bounding_box": {
+                    "x": 1317,
+                    "y": 1402,
+                    "width": 98,
+                    "height": 35
+                }
+            },
+            {
+                "word": "[_]No",
+                "confidence": 59,
+                "bounding_box": {
+                    "x": 1580,
+                    "y": 1397,
+                    "width": 94,
+                    "height": 41
+                }
+            },
+            {
+                "word": "If",
+                "confidence": 94,
+                "bounding_box": {
+                    "x": 1731,
+                    "y": 1402,
+                    "width": 26,
+                    "height": 27
+                }
+            },
+            {
+                "word": "yes,",
+                "confidence": 94,
+                "bounding_box": {
+                    "x": 1764,
+                    "y": 1410,
+                    "width": 57,
+                    "height": 27
+                }
+            },
+            {
+                "word": "date",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1833,
+                    "y": 1402,
+                    "width": 61,
+                    "height": 27
+                }
+            },
+            {
+                "word": "of",
+                "confidence": 97,
+                "bounding_box": {
+                    "x": 1905,
+                    "y": 1402,
+                    "width": 33,
+                    "height": 27
+                }
+            },
+            {
+                "word": "injection:",
+                "confidence": 95,
+                "bounding_box": {
+                    "x": 1947,
+                    "y": 1402,
+                    "width": 136,
+                    "height": 35
+                }
+            },
+            {
+                "word": "Triggers:",
+                "confidence": 93,
+                "bounding_box": {
+                    "x": 815,
+                    "y": 1461,
+                    "width": 134,
+                    "height": 35
+                }
+            },
+            {
+                "word": "[_]Environmental",
+                "confidence": 67,
+                "bounding_box": {
+                    "x": 1187,
+                    "y": 1456,
+                    "width": 270,
+                    "height": 41
+                }
+            },
+            {
+                "word": "[_]",
+                "confidence": 75,
+                "bounding_box": {
+                    "x": 1495,
+                    "y": 1456,
+                    "width": 41,
+                    "height": 41
+                }
+            },
+            {
+                "word": "Upper",
+                "confidence": 97,
+                "bounding_box": {
+                    "x": 1547,
+                    "y": 1462,
+                    "width": 92,
+                    "height": 34
+                }
+            },
+            {
+                "word": "Respiratory",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1650,
+                    "y": 1461,
+                    "width": 172,
+                    "height": 35
+                }
+            },
+            {
+                "word": "Infection",
+                "confidence": 93,
+                "bounding_box": {
+                    "x": 1834,
+                    "y": 1461,
+                    "width": 133,
+                    "height": 27
+                }
+            },
+            {
+                "word": "[_]",
+                "confidence": 84,
+                "bounding_box": {
+                    "x": 1987,
+                    "y": 1456,
+                    "width": 41,
+                    "height": 41
+                }
+            },
+            {
+                "word": "Other:",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 2038,
+                    "y": 1461,
+                    "width": 92,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Asthma",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 141,
+                    "y": 1508,
+                    "width": 137,
+                    "height": 30
+                }
+            },
+            {
+                "word": "Inhaler",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 817,
+                    "y": 1514,
+                    "width": 104,
+                    "height": 27
+                }
+            },
+            {
+                "word": "prescribed?",
+                "confidence": 90,
+                "bounding_box": {
+                    "x": 932,
+                    "y": 1514,
+                    "width": 170,
+                    "height": 35
+                }
+            },
+            {
+                "word": "Nebulizer",
+                "confidence": 62,
+                "bounding_box": {
+                    "x": 1444,
+                    "y": 1514,
+                    "width": 147,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Treatment",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1601,
+                    "y": 1515,
+                    "width": 153,
+                    "height": 26
+                }
+            },
+            {
+                "word": "prescribed?",
+                "confidence": 93,
+                "bounding_box": {
+                    "x": 1765,
+                    "y": 1514,
+                    "width": 171,
+                    "height": 35
+                }
+            },
+            {
+                "word": "Number",
+                "confidence": 95,
+                "bounding_box": {
+                    "x": 816,
+                    "y": 1567,
+                    "width": 122,
+                    "height": 27
+                }
+            },
+            {
+                "word": "of",
+                "confidence": 95,
+                "bounding_box": {
+                    "x": 948,
+                    "y": 1567,
+                    "width": 33,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Emergency",
+                "confidence": 95,
+                "bounding_box": {
+                    "x": 989,
+                    "y": 1568,
+                    "width": 168,
+                    "height": 34
+                }
+            },
+            {
+                "word": "Room",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1170,
+                    "y": 1568,
+                    "width": 88,
+                    "height": 26
+                }
+            },
+            {
+                "word": "(ER)",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1270,
+                    "y": 1568,
+                    "width": 71,
+                    "height": 31
+                }
+            },
+            {
+                "word": "Visits",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1353,
+                    "y": 1567,
+                    "width": 85,
+                    "height": 27
+                }
+            },
+            {
+                "word": "in",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1450,
+                    "y": 1567,
+                    "width": 26,
+                    "height": 27
+                }
+            },
+            {
+                "word": "the",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1488,
+                    "y": 1567,
+                    "width": 43,
+                    "height": 27
+                }
+            },
+            {
+                "word": "last",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1544,
+                    "y": 1567,
+                    "width": 49,
+                    "height": 27
+                }
+            },
+            {
+                "word": "calendar",
+                "confidence": 95,
+                "bounding_box": {
+                    "x": 1604,
+                    "y": 1567,
+                    "width": 127,
+                    "height": 27
+                }
+            },
+            {
+                "word": "year:",
+                "confidence": 95,
+                "bounding_box": {
+                    "x": 1741,
+                    "y": 1575,
+                    "width": 71,
+                    "height": 27
+                }
+            },
+            {
+                "word": "[_]",
+                "confidence": 75,
+                "bounding_box": {
+                    "x": 825,
+                    "y": 1620,
+                    "width": 41,
+                    "height": 40
+                }
+            },
+            {
+                "word": "Type",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 877,
+                    "y": 1626,
+                    "width": 76,
+                    "height": 34
+                }
+            },
+            {
+                "word": "|",
+                "confidence": 61,
+                "bounding_box": {
+                    "x": 969,
+                    "y": 1626,
+                    "width": 8,
+                    "height": 26
+                }
+            },
+            {
+                "word": "Type",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1051,
+                    "y": 1626,
+                    "width": 76,
+                    "height": 34
+                }
+            },
+            {
+                "word": "2",
+                "confidence": 81,
+                "bounding_box": {
+                    "x": 1139,
+                    "y": 1625,
+                    "width": 16,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Diagnosis",
+                "confidence": 94,
+                "bounding_box": {
+                    "x": 1181,
+                    "y": 1623,
+                    "width": 147,
+                    "height": 35
+                }
+            },
+            {
+                "word": "Date:",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1341,
+                    "y": 1624,
+                    "width": 76,
+                    "height": 26
+                }
+            },
+            {
+                "word": "Name",
+                "confidence": 95,
+                "bounding_box": {
+                    "x": 1658,
+                    "y": 1624,
+                    "width": 86,
+                    "height": 26
+                }
+            },
+            {
+                "word": "of",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1756,
+                    "y": 1623,
+                    "width": 33,
+                    "height": 27
+                }
+            },
+            {
+                "word": "emergency",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1796,
+                    "y": 1631,
+                    "width": 163,
+                    "height": 27
+                }
+            },
+            {
+                "word": "medication:",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1972,
+                    "y": 1623,
+                    "width": 172,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Glucose",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 816,
+                    "y": 1679,
+                    "width": 120,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Monitoring:",
+                "confidence": 93,
+                "bounding_box": {
+                    "x": 948,
+                    "y": 1679,
+                    "width": 177,
+                    "height": 35
+                }
+            },
+            {
+                "word": "[[]CGM",
+                "confidence": 53,
+                "bounding_box": {
+                    "x": 1400,
+                    "y": 1674,
+                    "width": 133,
+                    "height": 41
+                }
+            },
+            {
+                "word": "Administration:",
+                "confidence": 93,
+                "bounding_box": {
+                    "x": 1697,
+                    "y": 1679,
+                    "width": 233,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Type",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 815,
+                    "y": 1733,
+                    "width": 76,
+                    "height": 34
+                }
+            },
+            {
+                "word": "of",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 902,
+                    "y": 1732,
+                    "width": 33,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Seizure:",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 943,
+                    "y": 1732,
+                    "width": 119,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Date",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1904,
+                    "y": 1731,
+                    "width": 68,
+                    "height": 26
+                }
+            },
+            {
+                "word": "of",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1983,
+                    "y": 1730,
+                    "width": 33,
+                    "height": 27
+                }
+            },
+            {
+                "word": "last",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 2025,
+                    "y": 1730,
+                    "width": 49,
+                    "height": 27
+                }
+            },
+            {
+                "word": "seizure:",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 2086,
+                    "y": 1730,
+                    "width": 112,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Emergency",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 816,
+                    "y": 1786,
+                    "width": 168,
+                    "height": 34
+                }
+            },
+            {
+                "word": "Medication",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 996,
+                    "y": 1785,
+                    "width": 168,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Needed",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1177,
+                    "y": 1785,
+                    "width": 112,
+                    "height": 27
+                }
+            },
+            {
+                "word": "at",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1300,
+                    "y": 1790,
+                    "width": 26,
+                    "height": 22
+                }
+            },
+            {
+                "word": "school?",
+                "confidence": 90,
+                "bounding_box": {
+                    "x": 1337,
+                    "y": 1785,
+                    "width": 112,
+                    "height": 27
+                }
+            },
+            {
+                "word": "[]Yes",
+                "confidence": 83,
+                "bounding_box": {
+                    "x": 1471,
+                    "y": 1781,
+                    "width": 101,
+                    "height": 41
+                }
+            },
+            {
+                "word": "[_]No",
+                "confidence": 83,
+                "bounding_box": {
+                    "x": 1611,
+                    "y": 1781,
+                    "width": 94,
+                    "height": 41
+                }
+            },
+            {
+                "word": "VNS",
+                "confidence": 92,
+                "bounding_box": {
+                    "x": 1796,
+                    "y": 1785,
+                    "width": 72,
+                    "height": 27
+                }
+            },
+            {
+                "word": "implanted?",
+                "confidence": 90,
+                "bounding_box": {
+                    "x": 1881,
+                    "y": 1785,
+                    "width": 164,
+                    "height": 35
+                }
+            },
+            {
+                "word": "[]",
+                "confidence": 51,
+                "bounding_box": {
+                    "x": 2072,
+                    "y": 1781,
+                    "width": 41,
+                    "height": 41
+                }
+            },
+            {
+                "word": "Yes",
+                "confidence": 66,
+                "bounding_box": {
+                    "x": 2122,
+                    "y": 1787,
+                    "width": 55,
+                    "height": 26
+                }
+            },
+            {
+                "word": "[_]No",
+                "confidence": 65,
+                "bounding_box": {
+                    "x": 2211,
+                    "y": 1781,
+                    "width": 94,
+                    "height": 41
+                }
+            },
+            {
+                "word": "Section",
+                "confidence": 93,
+                "bounding_box": {
+                    "x": 125,
+                    "y": 1841,
+                    "width": 129,
+                    "height": 32
+                }
+            },
+            {
+                "word": "C:",
+                "confidence": 91,
+                "bounding_box": {
+                    "x": 266,
+                    "y": 1841,
+                    "width": 40,
+                    "height": 32
+                }
+            },
+            {
+                "word": "Current",
+                "confidence": 95,
+                "bounding_box": {
+                    "x": 320,
+                    "y": 1841,
+                    "width": 145,
+                    "height": 32
+                }
+            },
+            {
+                "word": "Health",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 635,
+                    "y": 1842,
+                    "width": 118,
+                    "height": 30
+                }
+            },
+            {
+                "word": "Conditions:",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 766,
+                    "y": 1841,
+                    "width": 204,
+                    "height": 32
+                }
+            },
+            {
+                "word": "Comment",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1352,
+                    "y": 1917,
+                    "width": 174,
+                    "height": 30
+                }
+            },
+            {
+                "word": "(Please",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1538,
+                    "y": 1917,
+                    "width": 123,
+                    "height": 35
+                }
+            },
+            {
+                "word": "provide",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1673,
+                    "y": 1917,
+                    "width": 135,
+                    "height": 38
+                }
+            },
+            {
+                "word": "details)",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1820,
+                    "y": 1917,
+                    "width": 127,
+                    "height": 35
+                }
+            },
+            {
+                "word": "if",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 686,
+                    "y": 1957,
+                    "width": 9,
+                    "height": 21
+                }
+            },
+            {
+                "word": "Yes",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 751,
+                    "y": 1957,
+                    "width": 33,
+                    "height": 21
+                }
+            },
+            {
+                "word": "|",
+                "confidence": 67,
+                "bounding_box": {
+                    "x": 519,
+                    "y": 1991,
+                    "width": 142,
+                    "height": 83
+                }
+            },
+            {
+                "word": "|",
+                "confidence": 78,
+                "bounding_box": {
+                    "x": 2409,
+                    "y": 2149,
+                    "width": 20,
+                    "height": 116
+                }
+            },
+            {
+                "word": "|",
+                "confidence": 71,
+                "bounding_box": {
+                    "x": 640,
+                    "y": 2277,
+                    "width": 49,
+                    "height": 116
+                }
+            },
+            {
+                "word": "|",
+                "confidence": 53,
+                "bounding_box": {
+                    "x": 765,
+                    "y": 2311,
+                    "width": 39,
+                    "height": 60
+                }
+            },
+            {
+                "word": "|",
+                "confidence": 66,
+                "bounding_box": {
+                    "x": 649,
+                    "y": 2341,
+                    "width": 40,
+                    "height": 116
+                }
+            },
+            {
+                "word": "Endocrine",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 135,
+                    "y": 2455,
+                    "width": 152,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Disorder",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 299,
+                    "y": 2455,
+                    "width": 130,
+                    "height": 27
+                }
+            },
+            {
+                "word": "(other",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 135,
+                    "y": 2498,
+                    "width": 89,
+                    "height": 32
+                }
+            },
+            {
+                "word": "than",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 234,
+                    "y": 2498,
+                    "width": 62,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Diabetes)",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 309,
+                    "y": 2498,
+                    "width": 140,
+                    "height": 31
+                }
+            },
+            {
+                "word": "Food",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 135,
+                    "y": 2593,
+                    "width": 75,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Intolerance",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 222,
+                    "y": 2593,
+                    "width": 166,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Foods:",
+                "confidence": 88,
+                "bounding_box": {
+                    "x": 816,
+                    "y": 2564,
+                    "width": 106,
+                    "height": 70
+                }
+            },
+            {
+                "word": "-",
+                "confidence": 68,
+                "bounding_box": {
+                    "x": 999,
+                    "y": 2626,
+                    "width": 4,
+                    "height": 4
+                }
+            },
+            {
+                "word": "\u2014",
+                "confidence": 65,
+                "bounding_box": {
+                    "x": 1093,
+                    "y": 2626,
+                    "width": 75,
+                    "height": 4
+                }
+            },
+            {
+                "word": "-",
+                "confidence": 68,
+                "bounding_box": {
+                    "x": 1246,
+                    "y": 2626,
+                    "width": 4,
+                    "height": 4
+                }
+            },
+            {
+                "word": "Gastrointestinal/Digestive",
+                "confidence": 91,
+                "bounding_box": {
+                    "x": 816,
+                    "y": 2626,
+                    "width": 389,
+                    "height": 35
+                }
+            },
+            {
+                "word": "Distress",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1218,
+                    "y": 2627,
+                    "width": 117,
+                    "height": 26
+                }
+            },
+            {
+                "word": "Yes",
+                "confidence": 83,
+                "bounding_box": {
+                    "x": 1408,
+                    "y": 2627,
+                    "width": 55,
+                    "height": 26
+                }
+            },
+            {
+                "word": "|",
+                "confidence": 65,
+                "bounding_box": {
+                    "x": 663,
+                    "y": 2705,
+                    "width": 31,
+                    "height": 119
+                }
+            },
+            {
+                "word": "C]",
+                "confidence": 65,
+                "bounding_box": {
+                    "x": 722,
+                    "y": 2705,
+                    "width": 61,
+                    "height": 119
+                }
+            },
+            {
+                "word": "Lang",
+                "confidence": 57,
+                "bounding_box": {
+                    "x": 118,
+                    "y": 3025,
+                    "width": 90,
+                    "height": 119
+                }
+            },
+            {
+                "word": "SS/SE-71",
+                "confidence": 86,
+                "bounding_box": {
+                    "x": 127,
+                    "y": 3205,
+                    "width": 139,
+                    "height": 27
+                }
+            },
+            {
+                "word": "(5/23)",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 282,
+                    "y": 3205,
+                    "width": 90,
+                    "height": 32
+                }
+            },
+            {
+                "word": "(OVER)",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 2296,
+                    "y": 3205,
+                    "width": 125,
+                    "height": 32
+                }
+            }
+        ],
+        "extracted_fields": {}
+    },
+    {
+        "words": [
+            {
+                "word": "HEALTH",
+                "confidence": 93,
+                "bounding_box": {
+                    "x": 933,
+                    "y": 119,
+                    "width": 246,
+                    "height": 40
+                }
+            },
+            {
+                "word": "INFORMATION",
+                "confidence": 93,
+                "bounding_box": {
+                    "x": 1197,
+                    "y": 118,
+                    "width": 431,
+                    "height": 42
+                }
+            },
+            {
+                "word": "Fairfax",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 131,
+                    "y": 163,
+                    "width": 121,
+                    "height": 56
+                }
+            },
+            {
+                "word": "County",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 259,
+                    "y": 168,
+                    "width": 136,
+                    "height": 51
+                }
+            },
+            {
+                "word": "Complete",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 808,
+                    "y": 183,
+                    "width": 128,
+                    "height": 31
+                }
+            },
+            {
+                "word": "this",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 946,
+                    "y": 183,
+                    "width": 46,
+                    "height": 24
+                }
+            },
+            {
+                "word": "form",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1003,
+                    "y": 183,
+                    "width": 62,
+                    "height": 23
+                }
+            },
+            {
+                "word": "every",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1075,
+                    "y": 190,
+                    "width": 72,
+                    "height": 24
+                }
+            },
+            {
+                "word": "school",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1158,
+                    "y": 183,
+                    "width": 84,
+                    "height": 24
+                }
+            },
+            {
+                "word": "year",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1253,
+                    "y": 190,
+                    "width": 57,
+                    "height": 24
+                }
+            },
+            {
+                "word": "to",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1319,
+                    "y": 188,
+                    "width": 25,
+                    "height": 19
+                }
+            },
+            {
+                "word": "inform",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1354,
+                    "y": 183,
+                    "width": 88,
+                    "height": 23
+                }
+            },
+            {
+                "word": "us",
+                "confidence": 95,
+                "bounding_box": {
+                    "x": 1453,
+                    "y": 191,
+                    "width": 27,
+                    "height": 16
+                }
+            },
+            {
+                "word": "about",
+                "confidence": 95,
+                "bounding_box": {
+                    "x": 1490,
+                    "y": 183,
+                    "width": 72,
+                    "height": 24
+                }
+            },
+            {
+                "word": "your",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1573,
+                    "y": 190,
+                    "width": 60,
+                    "height": 24
+                }
+            },
+            {
+                "word": "student's",
+                "confidence": 85,
+                "bounding_box": {
+                    "x": 1643,
+                    "y": 183,
+                    "width": 112,
+                    "height": 24
+                }
+            },
+            {
+                "word": "PUBLIC",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 131,
+                    "y": 214,
+                    "width": 97,
+                    "height": 25
+                }
+            },
+            {
+                "word": "SCHOOLS",
+                "confidence": 95,
+                "bounding_box": {
+                    "x": 239,
+                    "y": 214,
+                    "width": 137,
+                    "height": 25
+                }
+            },
+            {
+                "word": "existing",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 805,
+                    "y": 221,
+                    "width": 104,
+                    "height": 31
+                }
+            },
+            {
+                "word": "and",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 919,
+                    "y": 221,
+                    "width": 47,
+                    "height": 24
+                }
+            },
+            {
+                "word": "new",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 976,
+                    "y": 228,
+                    "width": 53,
+                    "height": 17
+                }
+            },
+            {
+                "word": "health",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1040,
+                    "y": 221,
+                    "width": 79,
+                    "height": 24
+                }
+            },
+            {
+                "word": "conditions",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1129,
+                    "y": 221,
+                    "width": 137,
+                    "height": 24
+                }
+            },
+            {
+                "word": "that",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1277,
+                    "y": 221,
+                    "width": 47,
+                    "height": 24
+                }
+            },
+            {
+                "word": "affect",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1335,
+                    "y": 221,
+                    "width": 74,
+                    "height": 24
+                }
+            },
+            {
+                "word": "your",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1419,
+                    "y": 228,
+                    "width": 61,
+                    "height": 24
+                }
+            },
+            {
+                "word": "student's",
+                "confidence": 94,
+                "bounding_box": {
+                    "x": 1489,
+                    "y": 221,
+                    "width": 113,
+                    "height": 24
+                }
+            },
+            {
+                "word": "school",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1613,
+                    "y": 221,
+                    "width": 83,
+                    "height": 24
+                }
+            },
+            {
+                "word": "day",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1708,
+                    "y": 221,
+                    "width": 46,
+                    "height": 31
+                }
+            },
+            {
+                "word": "ENGAGE",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 131,
+                    "y": 250,
+                    "width": 73,
+                    "height": 14
+                }
+            },
+            {
+                "word": "\u00a9",
+                "confidence": 80,
+                "bounding_box": {
+                    "x": 209,
+                    "y": 246,
+                    "width": 7,
+                    "height": 26
+                }
+            },
+            {
+                "word": "INSPIRE",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 228,
+                    "y": 250,
+                    "width": 64,
+                    "height": 14
+                }
+            },
+            {
+                "word": "\u00a9",
+                "confidence": 61,
+                "bounding_box": {
+                    "x": 301,
+                    "y": 253,
+                    "width": 6,
+                    "height": 7
+                }
+            },
+            {
+                "word": "THRIVE",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 316,
+                    "y": 250,
+                    "width": 59,
+                    "height": 13
+                }
+            },
+            {
+                "word": "Last",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 126,
+                    "y": 372,
+                    "width": 77,
+                    "height": 30
+                }
+            },
+            {
+                "word": "Name",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 215,
+                    "y": 372,
+                    "width": 102,
+                    "height": 30
+                }
+            },
+            {
+                "word": "First",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1023,
+                    "y": 372,
+                    "width": 83,
+                    "height": 30
+                }
+            },
+            {
+                "word": "Name",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1119,
+                    "y": 372,
+                    "width": 102,
+                    "height": 30
+                }
+            },
+            {
+                "word": "Date",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1891,
+                    "y": 372,
+                    "width": 81,
+                    "height": 30
+                }
+            },
+            {
+                "word": "of",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1984,
+                    "y": 372,
+                    "width": 36,
+                    "height": 30
+                }
+            },
+            {
+                "word": "Birth",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 2029,
+                    "y": 372,
+                    "width": 93,
+                    "height": 30
+                }
+            },
+            {
+                "word": "ection",
+                "confidence": 88,
+                "bounding_box": {
+                    "x": 148,
+                    "y": 444,
+                    "width": 105,
+                    "height": 30
+                }
+            },
+            {
+                "word": "D:",
+                "confidence": 88,
+                "bounding_box": {
+                    "x": 265,
+                    "y": 444,
+                    "width": 41,
+                    "height": 30
+                }
+            },
+            {
+                "word": "Current",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 320,
+                    "y": 444,
+                    "width": 145,
+                    "height": 30
+                }
+            },
+            {
+                "word": "Health",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 477,
+                    "y": 444,
+                    "width": 118,
+                    "height": 30
+                }
+            },
+            {
+                "word": "Conditions,",
+                "confidence": 95,
+                "bounding_box": {
+                    "x": 607,
+                    "y": 444,
+                    "width": 203,
+                    "height": 36
+                }
+            },
+            {
+                "word": "Continued:",
+                "confidence": 95,
+                "bounding_box": {
+                    "x": 823,
+                    "y": 444,
+                    "width": 197,
+                    "height": 30
+                }
+            },
+            {
+                "word": "Check",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 680,
+                    "y": 500,
+                    "width": 110,
+                    "height": 30
+                }
+            },
+            {
+                "word": "if",
+                "confidence": 95,
+                "bounding_box": {
+                    "x": 686,
+                    "y": 550,
+                    "width": 26,
+                    "height": 29
+                }
+            },
+            {
+                "word": "Yes",
+                "confidence": 95,
+                "bounding_box": {
+                    "x": 721,
+                    "y": 550,
+                    "width": 63,
+                    "height": 30
+                }
+            },
+            {
+                "word": "Muscle/Bone/Joint/Arthritis",
+                "confidence": 92,
+                "bounding_box": {
+                    "x": 136,
+                    "y": 605,
+                    "width": 417,
+                    "height": 43
+                }
+            },
+            {
+                "word": "Please",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 817,
+                    "y": 609,
+                    "width": 92,
+                    "height": 27
+                }
+            },
+            {
+                "word": "specify:",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 922,
+                    "y": 609,
+                    "width": 114,
+                    "height": 35
+                }
+            },
+            {
+                "word": "[_]",
+                "confidence": 79,
+                "bounding_box": {
+                    "x": 825,
+                    "y": 670,
+                    "width": 41,
+                    "height": 41
+                }
+            },
+            {
+                "word": "Brain",
+                "confidence": 93,
+                "bounding_box": {
+                    "x": 877,
+                    "y": 675,
+                    "width": 80,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Injury/Concussion/Date",
+                "confidence": 92,
+                "bounding_box": {
+                    "x": 970,
+                    "y": 675,
+                    "width": 355,
+                    "height": 34
+                }
+            },
+            {
+                "word": "Diagnosed:",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1337,
+                    "y": 675,
+                    "width": 166,
+                    "height": 35
+                }
+            },
+            {
+                "word": "[_]",
+                "confidence": 62,
+                "bounding_box": {
+                    "x": 825,
+                    "y": 730,
+                    "width": 41,
+                    "height": 41
+                }
+            },
+            {
+                "word": "Cerebral",
+                "confidence": 62,
+                "bounding_box": {
+                    "x": 876,
+                    "y": 735,
+                    "width": 126,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Palsy",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1015,
+                    "y": 735,
+                    "width": 78,
+                    "height": 34
+                }
+            },
+            {
+                "word": "Other:",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1258,
+                    "y": 735,
+                    "width": 92,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Skin",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 136,
+                    "y": 801,
+                    "width": 65,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Condition",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 213,
+                    "y": 801,
+                    "width": 148,
+                    "height": 27
+                }
+            },
+            {
+                "word": "|",
+                "confidence": 79,
+                "bounding_box": {
+                    "x": 660,
+                    "y": 780,
+                    "width": 29,
+                    "height": 69
+                }
+            },
+            {
+                "word": "Vision",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 136,
+                    "y": 865,
+                    "width": 96,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Conditions",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 244,
+                    "y": 865,
+                    "width": 163,
+                    "height": 27
+                }
+            },
+            {
+                "word": "[_]",
+                "confidence": 83,
+                "bounding_box": {
+                    "x": 825,
+                    "y": 860,
+                    "width": 41,
+                    "height": 41
+                }
+            },
+            {
+                "word": "Contacts/Glasses",
+                "confidence": 92,
+                "bounding_box": {
+                    "x": 876,
+                    "y": 865,
+                    "width": 254,
+                    "height": 27
+                }
+            },
+            {
+                "word": "[_]",
+                "confidence": 87,
+                "bounding_box": {
+                    "x": 1225,
+                    "y": 860,
+                    "width": 41,
+                    "height": 41
+                }
+            },
+            {
+                "word": "Non-Correctable",
+                "confidence": 88,
+                "bounding_box": {
+                    "x": 1277,
+                    "y": 865,
+                    "width": 248,
+                    "height": 27
+                }
+            },
+            {
+                "word": "[_]",
+                "confidence": 69,
+                "bounding_box": {
+                    "x": 1642,
+                    "y": 860,
+                    "width": 41,
+                    "height": 41
+                }
+            },
+            {
+                "word": "Other:",
+                "confidence": 97,
+                "bounding_box": {
+                    "x": 1693,
+                    "y": 865,
+                    "width": 92,
+                    "height": 27
+                }
+            },
+            {
+                "word": "|",
+                "confidence": 86,
+                "bounding_box": {
+                    "x": 117,
+                    "y": 908,
+                    "width": 18,
+                    "height": 69
+                }
+            },
+            {
+                "word": "Other",
+                "confidence": 87,
+                "bounding_box": {
+                    "x": 145,
+                    "y": 908,
+                    "width": 82,
+                    "height": 69
+                }
+            },
+            {
+                "word": "Health",
+                "confidence": 95,
+                "bounding_box": {
+                    "x": 243,
+                    "y": 908,
+                    "width": 93,
+                    "height": 69
+                }
+            },
+            {
+                "word": "Conditions",
+                "confidence": 88,
+                "bounding_box": {
+                    "x": 352,
+                    "y": 908,
+                    "width": 174,
+                    "height": 69
+                }
+            },
+            {
+                "word": "|",
+                "confidence": 56,
+                "bounding_box": {
+                    "x": 611,
+                    "y": 908,
+                    "width": 81,
+                    "height": 69
+                }
+            },
+            {
+                "word": "[_]",
+                "confidence": 83,
+                "bounding_box": {
+                    "x": 825,
+                    "y": 924,
+                    "width": 41,
+                    "height": 41
+                }
+            },
+            {
+                "word": "Autism",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 876,
+                    "y": 929,
+                    "width": 108,
+                    "height": 27
+                }
+            },
+            {
+                "word": "[_]",
+                "confidence": 78,
+                "bounding_box": {
+                    "x": 1081,
+                    "y": 924,
+                    "width": 40,
+                    "height": 41
+                }
+            },
+            {
+                "word": "Down",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1132,
+                    "y": 930,
+                    "width": 89,
+                    "height": 26
+                }
+            },
+            {
+                "word": "Syndrome",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1233,
+                    "y": 929,
+                    "width": 151,
+                    "height": 34
+                }
+            },
+            {
+                "word": "[_]",
+                "confidence": 78,
+                "bounding_box": {
+                    "x": 1521,
+                    "y": 924,
+                    "width": 41,
+                    "height": 41
+                }
+            },
+            {
+                "word": "Other:",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1572,
+                    "y": 929,
+                    "width": 91,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Emotional/Mental",
+                "confidence": 90,
+                "bounding_box": {
+                    "x": 126,
+                    "y": 987,
+                    "width": 321,
+                    "height": 30
+                }
+            },
+            {
+                "word": "Health",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 461,
+                    "y": 987,
+                    "width": 117,
+                    "height": 30
+                }
+            },
+            {
+                "word": "Conditions:",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 592,
+                    "y": 987,
+                    "width": 203,
+                    "height": 30
+                }
+            },
+            {
+                "word": "Provider",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 817,
+                    "y": 1057,
+                    "width": 127,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Diagnosed",
+                "confidence": 88,
+                "bounding_box": {
+                    "x": 955,
+                    "y": 1057,
+                    "width": 157,
+                    "height": 35
+                }
+            },
+            {
+                "word": "[_]No",
+                "confidence": 86,
+                "bounding_box": {
+                    "x": 1308,
+                    "y": 1052,
+                    "width": 94,
+                    "height": 41
+                }
+            },
+            {
+                "word": "Under",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1544,
+                    "y": 1057,
+                    "width": 92,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Treatment",
+                "confidence": 69,
+                "bounding_box": {
+                    "x": 1645,
+                    "y": 1058,
+                    "width": 153,
+                    "height": 26
+                }
+            },
+            {
+                "word": "[_]No",
+                "confidence": 80,
+                "bounding_box": {
+                    "x": 1998,
+                    "y": 1052,
+                    "width": 94,
+                    "height": 41
+                }
+            },
+            {
+                "word": "Provider",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 817,
+                    "y": 1121,
+                    "width": 127,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Diagnosed",
+                "confidence": 87,
+                "bounding_box": {
+                    "x": 955,
+                    "y": 1121,
+                    "width": 157,
+                    "height": 35
+                }
+            },
+            {
+                "word": "[_]No",
+                "confidence": 86,
+                "bounding_box": {
+                    "x": 1308,
+                    "y": 1116,
+                    "width": 94,
+                    "height": 41
+                }
+            },
+            {
+                "word": "Under",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1544,
+                    "y": 1121,
+                    "width": 92,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Treatment",
+                "confidence": 72,
+                "bounding_box": {
+                    "x": 1645,
+                    "y": 1122,
+                    "width": 153,
+                    "height": 26
+                }
+            },
+            {
+                "word": "[_]No",
+                "confidence": 78,
+                "bounding_box": {
+                    "x": 1998,
+                    "y": 1116,
+                    "width": 94,
+                    "height": 41
+                }
+            },
+            {
+                "word": "Depression",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 136,
+                    "y": 1176,
+                    "width": 165,
+                    "height": 49
+                }
+            },
+            {
+                "word": "Provider",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 817,
+                    "y": 1185,
+                    "width": 127,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Diagnosed",
+                "confidence": 87,
+                "bounding_box": {
+                    "x": 955,
+                    "y": 1185,
+                    "width": 157,
+                    "height": 35
+                }
+            },
+            {
+                "word": "[_]No",
+                "confidence": 86,
+                "bounding_box": {
+                    "x": 1308,
+                    "y": 1180,
+                    "width": 94,
+                    "height": 41
+                }
+            },
+            {
+                "word": "Under",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1544,
+                    "y": 1185,
+                    "width": 92,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Treatment",
+                "confidence": 72,
+                "bounding_box": {
+                    "x": 1645,
+                    "y": 1186,
+                    "width": 153,
+                    "height": 26
+                }
+            },
+            {
+                "word": "[_]No",
+                "confidence": 78,
+                "bounding_box": {
+                    "x": 1998,
+                    "y": 1180,
+                    "width": 94,
+                    "height": 41
+                }
+            },
+            {
+                "word": "Eating",
+                "confidence": 97,
+                "bounding_box": {
+                    "x": 136,
+                    "y": 1249,
+                    "width": 94,
+                    "height": 35
+                }
+            },
+            {
+                "word": "Disorder",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 243,
+                    "y": 1249,
+                    "width": 130,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Provider",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 817,
+                    "y": 1247,
+                    "width": 127,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Diagnosed",
+                "confidence": 87,
+                "bounding_box": {
+                    "x": 955,
+                    "y": 1247,
+                    "width": 157,
+                    "height": 35
+                }
+            },
+            {
+                "word": "[_]No",
+                "confidence": 67,
+                "bounding_box": {
+                    "x": 1308,
+                    "y": 1243,
+                    "width": 94,
+                    "height": 40
+                }
+            },
+            {
+                "word": "Under",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1544,
+                    "y": 1247,
+                    "width": 92,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Treatment",
+                "confidence": 75,
+                "bounding_box": {
+                    "x": 1645,
+                    "y": 1248,
+                    "width": 153,
+                    "height": 26
+                }
+            },
+            {
+                "word": "[_]No",
+                "confidence": 72,
+                "bounding_box": {
+                    "x": 1998,
+                    "y": 1243,
+                    "width": 94,
+                    "height": 40
+                }
+            },
+            {
+                "word": "Other:",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 135,
+                    "y": 1304,
+                    "width": 92,
+                    "height": 49
+                }
+            },
+            {
+                "word": "Provider",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 817,
+                    "y": 1310,
+                    "width": 127,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Diagnosed",
+                "confidence": 88,
+                "bounding_box": {
+                    "x": 955,
+                    "y": 1310,
+                    "width": 157,
+                    "height": 35
+                }
+            },
+            {
+                "word": "[_]No",
+                "confidence": 71,
+                "bounding_box": {
+                    "x": 1308,
+                    "y": 1305,
+                    "width": 94,
+                    "height": 41
+                }
+            },
+            {
+                "word": "Under",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1544,
+                    "y": 1310,
+                    "width": 92,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Treatment",
+                "confidence": 69,
+                "bounding_box": {
+                    "x": 1645,
+                    "y": 1311,
+                    "width": 153,
+                    "height": 26
+                }
+            },
+            {
+                "word": "[_]No",
+                "confidence": 81,
+                "bounding_box": {
+                    "x": 1998,
+                    "y": 1305,
+                    "width": 94,
+                    "height": 41
+                }
+            },
+            {
+                "word": "ection",
+                "confidence": 93,
+                "bounding_box": {
+                    "x": 148,
+                    "y": 1371,
+                    "width": 105,
+                    "height": 30
+                }
+            },
+            {
+                "word": "E:",
+                "confidence": 83,
+                "bounding_box": {
+                    "x": 265,
+                    "y": 1371,
+                    "width": 39,
+                    "height": 30
+                }
+            },
+            {
+                "word": "Health",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 318,
+                    "y": 1371,
+                    "width": 118,
+                    "height": 30
+                }
+            },
+            {
+                "word": "Procedures:",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 448,
+                    "y": 1371,
+                    "width": 212,
+                    "height": 30
+                }
+            },
+            {
+                "word": "The",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 134,
+                    "y": 1432,
+                    "width": 61,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Fairfax",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 207,
+                    "y": 1432,
+                    "width": 116,
+                    "height": 27
+                }
+            },
+            {
+                "word": "County",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 335,
+                    "y": 1432,
+                    "width": 116,
+                    "height": 34
+                }
+            },
+            {
+                "word": "Health",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 463,
+                    "y": 1432,
+                    "width": 106,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Department",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 580,
+                    "y": 1432,
+                    "width": 192,
+                    "height": 34
+                }
+            },
+            {
+                "word": "provides",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 784,
+                    "y": 1432,
+                    "width": 135,
+                    "height": 34
+                }
+            },
+            {
+                "word": "referral",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 931,
+                    "y": 1432,
+                    "width": 122,
+                    "height": 27
+                }
+            },
+            {
+                "word": "information",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1065,
+                    "y": 1432,
+                    "width": 189,
+                    "height": 27
+                }
+            },
+            {
+                "word": "to",
+                "confidence": 95,
+                "bounding_box": {
+                    "x": 1265,
+                    "y": 1435,
+                    "width": 30,
+                    "height": 24
+                }
+            },
+            {
+                "word": "community",
+                "confidence": 95,
+                "bounding_box": {
+                    "x": 1306,
+                    "y": 1432,
+                    "width": 179,
+                    "height": 34
+                }
+            },
+            {
+                "word": "medical",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1497,
+                    "y": 1432,
+                    "width": 123,
+                    "height": 27
+                }
+            },
+            {
+                "word": "resources",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1632,
+                    "y": 1440,
+                    "width": 149,
+                    "height": 19
+                }
+            },
+            {
+                "word": "providing",
+                "confidence": 95,
+                "bounding_box": {
+                    "x": 1793,
+                    "y": 1432,
+                    "width": 154,
+                    "height": 34
+                }
+            },
+            {
+                "word": "free",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1958,
+                    "y": 1432,
+                    "width": 61,
+                    "height": 27
+                }
+            },
+            {
+                "word": "physical",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 2030,
+                    "y": 1432,
+                    "width": 129,
+                    "height": 34
+                }
+            },
+            {
+                "word": "examinations.",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 2170,
+                    "y": 1432,
+                    "width": 220,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Visit",
+                "confidence": 93,
+                "bounding_box": {
+                    "x": 135,
+                    "y": 1477,
+                    "width": 73,
+                    "height": 27
+                }
+            },
+            {
+                "word": "https://www.fairfaxcounty.gov/health/clinics.",
+                "confidence": 88,
+                "bounding_box": {
+                    "x": 219,
+                    "y": 1477,
+                    "width": 715,
+                    "height": 34
+                }
+            },
+            {
+                "word": "If",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 136,
+                    "y": 1525,
+                    "width": 27,
+                    "height": 26
+                }
+            },
+            {
+                "word": "your",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 171,
+                    "y": 1533,
+                    "width": 74,
+                    "height": 26
+                }
+            },
+            {
+                "word": "child",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 255,
+                    "y": 1525,
+                    "width": 77,
+                    "height": 27
+                }
+            },
+            {
+                "word": "has",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 345,
+                    "y": 1525,
+                    "width": 52,
+                    "height": 27
+                }
+            },
+            {
+                "word": "a",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 408,
+                    "y": 1533,
+                    "width": 17,
+                    "height": 19
+                }
+            },
+            {
+                "word": "health",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 436,
+                    "y": 1525,
+                    "width": 98,
+                    "height": 27
+                }
+            },
+            {
+                "word": "condition,",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 545,
+                    "y": 1525,
+                    "width": 158,
+                    "height": 32
+                }
+            },
+            {
+                "word": "does",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 714,
+                    "y": 1525,
+                    "width": 69,
+                    "height": 27
+                }
+            },
+            {
+                "word": "your",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 794,
+                    "y": 1533,
+                    "width": 74,
+                    "height": 26
+                }
+            },
+            {
+                "word": "child",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 878,
+                    "y": 1525,
+                    "width": 77,
+                    "height": 27
+                }
+            },
+            {
+                "word": "require",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 968,
+                    "y": 1525,
+                    "width": 116,
+                    "height": 34
+                }
+            },
+            {
+                "word": "any",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1095,
+                    "y": 1533,
+                    "width": 57,
+                    "height": 26
+                }
+            },
+            {
+                "word": "health",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1163,
+                    "y": 1525,
+                    "width": 98,
+                    "height": 27
+                }
+            },
+            {
+                "word": "procedures",
+                "confidence": 95,
+                "bounding_box": {
+                    "x": 1273,
+                    "y": 1525,
+                    "width": 177,
+                    "height": 34
+                }
+            },
+            {
+                "word": "or",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1461,
+                    "y": 1533,
+                    "width": 35,
+                    "height": 19
+                }
+            },
+            {
+                "word": "need",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1506,
+                    "y": 1525,
+                    "width": 72,
+                    "height": 27
+                }
+            },
+            {
+                "word": "any",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1590,
+                    "y": 1533,
+                    "width": 57,
+                    "height": 26
+                }
+            },
+            {
+                "word": "special",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1657,
+                    "y": 1525,
+                    "width": 107,
+                    "height": 34
+                }
+            },
+            {
+                "word": "equipment",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1775,
+                    "y": 1525,
+                    "width": 170,
+                    "height": 34
+                }
+            },
+            {
+                "word": "during",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1956,
+                    "y": 1525,
+                    "width": 107,
+                    "height": 34
+                }
+            },
+            {
+                "word": "the",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 2073,
+                    "y": 1525,
+                    "width": 49,
+                    "height": 27
+                }
+            },
+            {
+                "word": "school",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 2132,
+                    "y": 1525,
+                    "width": 99,
+                    "height": 27
+                }
+            },
+            {
+                "word": "days?",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 2242,
+                    "y": 1525,
+                    "width": 90,
+                    "height": 34
+                }
+            },
+            {
+                "word": "you",
+                "confidence": 95,
+                "bounding_box": {
+                    "x": 455,
+                    "y": 1581,
+                    "width": 57,
+                    "height": 26
+                }
+            },
+            {
+                "word": "answered",
+                "confidence": 95,
+                "bounding_box": {
+                    "x": 523,
+                    "y": 1573,
+                    "width": 150,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Yes,",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 685,
+                    "y": 1573,
+                    "width": 66,
+                    "height": 32
+                }
+            },
+            {
+                "word": "please",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 762,
+                    "y": 1573,
+                    "width": 96,
+                    "height": 34
+                }
+            },
+            {
+                "word": "describe:",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 869,
+                    "y": 1573,
+                    "width": 142,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Condition",
+                "confidence": 95,
+                "bounding_box": {
+                    "x": 316,
+                    "y": 515,
+                    "width": 176,
+                    "height": 44
+                }
+            },
+            {
+                "word": "Comment",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1352,
+                    "y": 519,
+                    "width": 174,
+                    "height": 30
+                }
+            },
+            {
+                "word": "(Please",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1539,
+                    "y": 519,
+                    "width": 122,
+                    "height": 35
+                }
+            },
+            {
+                "word": "provide",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1673,
+                    "y": 519,
+                    "width": 135,
+                    "height": 38
+                }
+            },
+            {
+                "word": "details)",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1820,
+                    "y": 519,
+                    "width": 127,
+                    "height": 35
+                }
+            },
+            {
+                "word": "Neurological",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 136,
+                    "y": 701,
+                    "width": 192,
+                    "height": 35
+                }
+            },
+            {
+                "word": "(other",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 340,
+                    "y": 701,
+                    "width": 89,
+                    "height": 31
+                }
+            },
+            {
+                "word": "than",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 439,
+                    "y": 701,
+                    "width": 62,
+                    "height": 27
+                }
+            },
+            {
+                "word": "seizures)",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 514,
+                    "y": 701,
+                    "width": 130,
+                    "height": 31
+                }
+            },
+            {
+                "word": "Section",
+                "confidence": 93,
+                "bounding_box": {
+                    "x": 125,
+                    "y": 1632,
+                    "width": 128,
+                    "height": 30
+                }
+            },
+            {
+                "word": "F:",
+                "confidence": 85,
+                "bounding_box": {
+                    "x": 265,
+                    "y": 1632,
+                    "width": 36,
+                    "height": 30
+                }
+            },
+            {
+                "word": "List",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 315,
+                    "y": 1632,
+                    "width": 69,
+                    "height": 30
+                }
+            },
+            {
+                "word": "all",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 395,
+                    "y": 1632,
+                    "width": 43,
+                    "height": 30
+                }
+            },
+            {
+                "word": "medications",
+                "confidence": 95,
+                "bounding_box": {
+                    "x": 450,
+                    "y": 1632,
+                    "width": 211,
+                    "height": 30
+                }
+            },
+            {
+                "word": "and",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 672,
+                    "y": 1632,
+                    "width": 66,
+                    "height": 30
+                }
+            },
+            {
+                "word": "dosages",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 750,
+                    "y": 1632,
+                    "width": 136,
+                    "height": 38
+                }
+            },
+            {
+                "word": "your",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 897,
+                    "y": 1641,
+                    "width": 83,
+                    "height": 29
+                }
+            },
+            {
+                "word": "child",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 991,
+                    "y": 1632,
+                    "width": 87,
+                    "height": 30
+                }
+            },
+            {
+                "word": "receives",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1090,
+                    "y": 1632,
+                    "width": 140,
+                    "height": 30
+                }
+            },
+            {
+                "word": "on",
+                "confidence": 95,
+                "bounding_box": {
+                    "x": 1241,
+                    "y": 1641,
+                    "width": 43,
+                    "height": 21
+                }
+            },
+            {
+                "word": "a",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1295,
+                    "y": 1641,
+                    "width": 20,
+                    "height": 21
+                }
+            },
+            {
+                "word": "regular",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1327,
+                    "y": 1632,
+                    "width": 131,
+                    "height": 38
+                }
+            },
+            {
+                "word": "basis",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1469,
+                    "y": 1632,
+                    "width": 87,
+                    "height": 30
+                }
+            },
+            {
+                "word": "and",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1567,
+                    "y": 1632,
+                    "width": 66,
+                    "height": 30
+                }
+            },
+            {
+                "word": "indicate",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1645,
+                    "y": 1632,
+                    "width": 140,
+                    "height": 30
+                }
+            },
+            {
+                "word": "which",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1797,
+                    "y": 1632,
+                    "width": 105,
+                    "height": 30
+                }
+            },
+            {
+                "word": "ones",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1913,
+                    "y": 1641,
+                    "width": 78,
+                    "height": 21
+                }
+            },
+            {
+                "word": "to",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 2003,
+                    "y": 1635,
+                    "width": 34,
+                    "height": 27
+                }
+            },
+            {
+                "word": "be",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 2048,
+                    "y": 1632,
+                    "width": 41,
+                    "height": 30
+                }
+            },
+            {
+                "word": "taken",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 2100,
+                    "y": 1632,
+                    "width": 98,
+                    "height": 30
+                }
+            },
+            {
+                "word": "at",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 2210,
+                    "y": 1635,
+                    "width": 34,
+                    "height": 27
+                }
+            },
+            {
+                "word": "school:",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 2255,
+                    "y": 1632,
+                    "width": 122,
+                    "height": 30
+                }
+            },
+            {
+                "word": "Parent",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 135,
+                    "y": 1880,
+                    "width": 131,
+                    "height": 33
+                }
+            },
+            {
+                "word": "or",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 278,
+                    "y": 1890,
+                    "width": 43,
+                    "height": 23
+                }
+            },
+            {
+                "word": "guardian",
+                "confidence": 95,
+                "bounding_box": {
+                    "x": 333,
+                    "y": 1880,
+                    "width": 177,
+                    "height": 42
+                }
+            },
+            {
+                "word": "is",
+                "confidence": 95,
+                "bounding_box": {
+                    "x": 523,
+                    "y": 1880,
+                    "width": 29,
+                    "height": 33
+                }
+            },
+            {
+                "word": "responsible",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 565,
+                    "y": 1880,
+                    "width": 220,
+                    "height": 42
+                }
+            },
+            {
+                "word": "for",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 797,
+                    "y": 1880,
+                    "width": 59,
+                    "height": 33
+                }
+            },
+            {
+                "word": "providing",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 868,
+                    "y": 1880,
+                    "width": 190,
+                    "height": 42
+                }
+            },
+            {
+                "word": "the",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1070,
+                    "y": 1880,
+                    "width": 60,
+                    "height": 33
+                }
+            },
+            {
+                "word": "school",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1143,
+                    "y": 1880,
+                    "width": 121,
+                    "height": 33
+                }
+            },
+            {
+                "word": "with",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1277,
+                    "y": 1880,
+                    "width": 84,
+                    "height": 33
+                }
+            },
+            {
+                "word": "any",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1375,
+                    "y": 1890,
+                    "width": 69,
+                    "height": 32
+                }
+            },
+            {
+                "word": "medication,",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1458,
+                    "y": 1880,
+                    "width": 226,
+                    "height": 40
+                }
+            },
+            {
+                "word": "special",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1696,
+                    "y": 1880,
+                    "width": 132,
+                    "height": 42
+                }
+            },
+            {
+                "word": "food,",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1840,
+                    "y": 1880,
+                    "width": 97,
+                    "height": 40
+                }
+            },
+            {
+                "word": "equipment",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1950,
+                    "y": 1880,
+                    "width": 208,
+                    "height": 42
+                }
+            },
+            {
+                "word": "that",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 2171,
+                    "y": 1880,
+                    "width": 78,
+                    "height": 33
+                }
+            },
+            {
+                "word": "the",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 2261,
+                    "y": 1880,
+                    "width": 60,
+                    "height": 33
+                }
+            },
+            {
+                "word": "student",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 134,
+                    "y": 1935,
+                    "width": 145,
+                    "height": 33
+                }
+            },
+            {
+                "word": "may",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 291,
+                    "y": 1945,
+                    "width": 82,
+                    "height": 32
+                }
+            },
+            {
+                "word": "require",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 387,
+                    "y": 1935,
+                    "width": 143,
+                    "height": 42
+                }
+            },
+            {
+                "word": "during",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 543,
+                    "y": 1935,
+                    "width": 132,
+                    "height": 42
+                }
+            },
+            {
+                "word": "the",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 687,
+                    "y": 1935,
+                    "width": 60,
+                    "height": 33
+                }
+            },
+            {
+                "word": "day.",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 759,
+                    "y": 1935,
+                    "width": 82,
+                    "height": 42
+                }
+            },
+            {
+                "word": "Medication,",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 865,
+                    "y": 1935,
+                    "width": 232,
+                    "height": 40
+                }
+            },
+            {
+                "word": "Procedure",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1110,
+                    "y": 1935,
+                    "width": 202,
+                    "height": 33
+                }
+            },
+            {
+                "word": "Authorization,",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1324,
+                    "y": 1935,
+                    "width": 286,
+                    "height": 40
+                }
+            },
+            {
+                "word": "and",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1623,
+                    "y": 1935,
+                    "width": 72,
+                    "height": 33
+                }
+            },
+            {
+                "word": "Physical",
+                "confidence": 95,
+                "bounding_box": {
+                    "x": 1708,
+                    "y": 1935,
+                    "width": 161,
+                    "height": 42
+                }
+            },
+            {
+                "word": "Education",
+                "confidence": 95,
+                "bounding_box": {
+                    "x": 1883,
+                    "y": 1935,
+                    "width": 199,
+                    "height": 33
+                }
+            },
+            {
+                "word": "(PE)",
+                "confidence": 95,
+                "bounding_box": {
+                    "x": 2096,
+                    "y": 1935,
+                    "width": 86,
+                    "height": 39
+                }
+            },
+            {
+                "word": "forms",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 2195,
+                    "y": 1935,
+                    "width": 114,
+                    "height": 33
+                }
+            },
+            {
+                "word": "may",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 2322,
+                    "y": 1945,
+                    "width": 82,
+                    "height": 32
+                }
+            },
+            {
+                "word": "be",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 135,
+                    "y": 1990,
+                    "width": 44,
+                    "height": 33
+                }
+            },
+            {
+                "word": "found",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 191,
+                    "y": 1990,
+                    "width": 114,
+                    "height": 33
+                }
+            },
+            {
+                "word": "at",
+                "confidence": 93,
+                "bounding_box": {
+                    "x": 318,
+                    "y": 1993,
+                    "width": 37,
+                    "height": 30
+                }
+            },
+            {
+                "word": "https://www.fcps.edu/registration/forms",
+                "confidence": 67,
+                "bounding_box": {
+                    "x": 368,
+                    "y": 1990,
+                    "width": 780,
+                    "height": 42
+                }
+            },
+            {
+                "word": "or",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1160,
+                    "y": 2000,
+                    "width": 43,
+                    "height": 23
+                }
+            },
+            {
+                "word": "obtained",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1215,
+                    "y": 1990,
+                    "width": 169,
+                    "height": 33
+                }
+            },
+            {
+                "word": "in",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1398,
+                    "y": 1990,
+                    "width": 36,
+                    "height": 33
+                }
+            },
+            {
+                "word": "the",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1447,
+                    "y": 1990,
+                    "width": 60,
+                    "height": 33
+                }
+            },
+            {
+                "word": "school",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1519,
+                    "y": 1990,
+                    "width": 121,
+                    "height": 33
+                }
+            },
+            {
+                "word": "Health",
+                "confidence": 95,
+                "bounding_box": {
+                    "x": 1654,
+                    "y": 1990,
+                    "width": 130,
+                    "height": 33
+                }
+            },
+            {
+                "word": "Room.",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1798,
+                    "y": 1990,
+                    "width": 126,
+                    "height": 33
+                }
+            },
+            {
+                "word": "Parental",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 136,
+                    "y": 2062,
+                    "width": 132,
+                    "height": 29
+                }
+            },
+            {
+                "word": "Consent:",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 282,
+                    "y": 2062,
+                    "width": 144,
+                    "height": 29
+                }
+            },
+            {
+                "word": "I",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 442,
+                    "y": 2062,
+                    "width": 9,
+                    "height": 28
+                }
+            },
+            {
+                "word": "agree",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 465,
+                    "y": 2071,
+                    "width": 87,
+                    "height": 28
+                }
+            },
+            {
+                "word": "to",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 566,
+                    "y": 2067,
+                    "width": 30,
+                    "height": 24
+                }
+            },
+            {
+                "word": "allow",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 608,
+                    "y": 2062,
+                    "width": 90,
+                    "height": 29
+                }
+            },
+            {
+                "word": "my",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 712,
+                    "y": 2070,
+                    "width": 50,
+                    "height": 29
+                }
+            },
+            {
+                "word": "child's",
+                "confidence": 90,
+                "bounding_box": {
+                    "x": 775,
+                    "y": 2061,
+                    "width": 104,
+                    "height": 30
+                }
+            },
+            {
+                "word": "healthcare",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 893,
+                    "y": 2062,
+                    "width": 168,
+                    "height": 29
+                }
+            },
+            {
+                "word": "provider(s)",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1074,
+                    "y": 2061,
+                    "width": 182,
+                    "height": 39
+                }
+            },
+            {
+                "word": "to",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1270,
+                    "y": 2067,
+                    "width": 30,
+                    "height": 24
+                }
+            },
+            {
+                "word": "discuss",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1312,
+                    "y": 2061,
+                    "width": 118,
+                    "height": 30
+                }
+            },
+            {
+                "word": "information",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1444,
+                    "y": 2061,
+                    "width": 193,
+                    "height": 30
+                }
+            },
+            {
+                "word": "contained",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1650,
+                    "y": 2061,
+                    "width": 160,
+                    "height": 30
+                }
+            },
+            {
+                "word": "in",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1824,
+                    "y": 2061,
+                    "width": 29,
+                    "height": 29
+                }
+            },
+            {
+                "word": "this",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1866,
+                    "y": 2061,
+                    "width": 57,
+                    "height": 30
+                }
+            },
+            {
+                "word": "form",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1937,
+                    "y": 2061,
+                    "width": 77,
+                    "height": 30
+                }
+            },
+            {
+                "word": "with",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 2028,
+                    "y": 2061,
+                    "width": 71,
+                    "height": 30
+                }
+            },
+            {
+                "word": "FCPS",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 2113,
+                    "y": 2062,
+                    "width": 93,
+                    "height": 29
+                }
+            },
+            {
+                "word": "staff",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 2221,
+                    "y": 2061,
+                    "width": 74,
+                    "height": 30
+                }
+            },
+            {
+                "word": "and",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 2304,
+                    "y": 2062,
+                    "width": 58,
+                    "height": 29
+                }
+            },
+            {
+                "word": "School",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 136,
+                    "y": 2111,
+                    "width": 111,
+                    "height": 29
+                }
+            },
+            {
+                "word": "Public",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 262,
+                    "y": 2110,
+                    "width": 103,
+                    "height": 30
+                }
+            },
+            {
+                "word": "Health",
+                "confidence": 95,
+                "bounding_box": {
+                    "x": 379,
+                    "y": 2111,
+                    "width": 107,
+                    "height": 29
+                }
+            },
+            {
+                "word": "Nurse.",
+                "confidence": 92,
+                "bounding_box": {
+                    "x": 500,
+                    "y": 2111,
+                    "width": 106,
+                    "height": 29
+                }
+            },
+            {
+                "word": "Healthcare",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 551,
+                    "y": 2273,
+                    "width": 159,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Provider",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 723,
+                    "y": 2273,
+                    "width": 127,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Name",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 861,
+                    "y": 2274,
+                    "width": 86,
+                    "height": 26
+                }
+            },
+            {
+                "word": "Healthcare",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1714,
+                    "y": 2273,
+                    "width": 159,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Provider",
+                "confidence": 95,
+                "bounding_box": {
+                    "x": 1885,
+                    "y": 2273,
+                    "width": 128,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Phone",
+                "confidence": 95,
+                "bounding_box": {
+                    "x": 2024,
+                    "y": 2273,
+                    "width": 91,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Number",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 2127,
+                    "y": 2273,
+                    "width": 121,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Parent/Guardian",
+                "confidence": 95,
+                "bounding_box": {
+                    "x": 315,
+                    "y": 2416,
+                    "width": 242,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Name",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 570,
+                    "y": 2417,
+                    "width": 86,
+                    "height": 26
+                }
+            },
+            {
+                "word": "(Print",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 668,
+                    "y": 2416,
+                    "width": 83,
+                    "height": 31
+                }
+            },
+            {
+                "word": "or",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 763,
+                    "y": 2424,
+                    "width": 30,
+                    "height": 19
+                }
+            },
+            {
+                "word": "Type)",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 803,
+                    "y": 2417,
+                    "width": 88,
+                    "height": 34
+                }
+            },
+            {
+                "word": "Parent/Guardian",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1337,
+                    "y": 2416,
+                    "width": 242,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Signature",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1592,
+                    "y": 2416,
+                    "width": 141,
+                    "height": 35
+                }
+            },
+            {
+                "word": "Public",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 859,
+                    "y": 2477,
+                    "width": 112,
+                    "height": 30
+                }
+            },
+            {
+                "word": "Health",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 983,
+                    "y": 2477,
+                    "width": 118,
+                    "height": 30
+                }
+            },
+            {
+                "word": "Nurse",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1114,
+                    "y": 2477,
+                    "width": 105,
+                    "height": 30
+                }
+            },
+            {
+                "word": "Use",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1230,
+                    "y": 2477,
+                    "width": 64,
+                    "height": 31
+                }
+            },
+            {
+                "word": "Only",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1306,
+                    "y": 2477,
+                    "width": 86,
+                    "height": 38
+                }
+            },
+            {
+                "word": "Below",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1404,
+                    "y": 2477,
+                    "width": 107,
+                    "height": 30
+                }
+            },
+            {
+                "word": "This",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1523,
+                    "y": 2477,
+                    "width": 78,
+                    "height": 30
+                }
+            },
+            {
+                "word": "Line",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1612,
+                    "y": 2477,
+                    "width": 80,
+                    "height": 30
+                }
+            },
+            {
+                "word": "[_]",
+                "confidence": 70,
+                "bounding_box": {
+                    "x": 144,
+                    "y": 2539,
+                    "width": 41,
+                    "height": 41
+                }
+            },
+            {
+                "word": "HIF",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 196,
+                    "y": 2543,
+                    "width": 65,
+                    "height": 28
+                }
+            },
+            {
+                "word": "Reviewed",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 273,
+                    "y": 2542,
+                    "width": 163,
+                    "height": 30
+                }
+            },
+            {
+                "word": "[_]",
+                "confidence": 82,
+                "bounding_box": {
+                    "x": 560,
+                    "y": 2539,
+                    "width": 41,
+                    "height": 41
+                }
+            },
+            {
+                "word": "Follow",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 612,
+                    "y": 2543,
+                    "width": 114,
+                    "height": 29
+                }
+            },
+            {
+                "word": "Protocol",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 740,
+                    "y": 2543,
+                    "width": 137,
+                    "height": 29
+                }
+            },
+            {
+                "word": "(SH",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 892,
+                    "y": 2543,
+                    "width": 63,
+                    "height": 34
+                }
+            },
+            {
+                "word": "Care",
+                "confidence": 93,
+                "bounding_box": {
+                    "x": 968,
+                    "y": 2543,
+                    "width": 76,
+                    "height": 29
+                }
+            },
+            {
+                "word": "Emerg.-Temp.",
+                "confidence": 86,
+                "bounding_box": {
+                    "x": 1058,
+                    "y": 2543,
+                    "width": 239,
+                    "height": 38
+                }
+            },
+            {
+                "word": "Care",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1311,
+                    "y": 2543,
+                    "width": 76,
+                    "height": 29
+                }
+            },
+            {
+                "word": "Guidelines)",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1400,
+                    "y": 2542,
+                    "width": 192,
+                    "height": 35
+                }
+            },
+            {
+                "word": "Health",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1767,
+                    "y": 2543,
+                    "width": 108,
+                    "height": 29
+                }
+            },
+            {
+                "word": "Condition",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1887,
+                    "y": 2542,
+                    "width": 165,
+                    "height": 30
+                }
+            },
+            {
+                "word": "List",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 2065,
+                    "y": 2542,
+                    "width": 63,
+                    "height": 30
+                }
+            },
+            {
+                "word": "(_]",
+                "confidence": 61,
+                "bounding_box": {
+                    "x": 144,
+                    "y": 2605,
+                    "width": 41,
+                    "height": 41
+                }
+            },
+            {
+                "word": "Mental",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 196,
+                    "y": 2610,
+                    "width": 114,
+                    "height": 29
+                }
+            },
+            {
+                "word": "Health",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 324,
+                    "y": 2610,
+                    "width": 108,
+                    "height": 29
+                }
+            },
+            {
+                "word": "Condition",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 445,
+                    "y": 2609,
+                    "width": 164,
+                    "height": 30
+                }
+            },
+            {
+                "word": "List",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 623,
+                    "y": 2609,
+                    "width": 62,
+                    "height": 30
+                }
+            },
+            {
+                "word": "Action",
+                "confidence": 93,
+                "bounding_box": {
+                    "x": 867,
+                    "y": 2609,
+                    "width": 110,
+                    "height": 30
+                }
+            },
+            {
+                "word": "Plan/Health",
+                "confidence": 92,
+                "bounding_box": {
+                    "x": 991,
+                    "y": 2610,
+                    "width": 193,
+                    "height": 29
+                }
+            },
+            {
+                "word": "Plan",
+                "confidence": 97,
+                "bounding_box": {
+                    "x": 1198,
+                    "y": 2610,
+                    "width": 71,
+                    "height": 29
+                }
+            },
+            {
+                "word": "or",
+                "confidence": 97,
+                "bounding_box": {
+                    "x": 1282,
+                    "y": 2619,
+                    "width": 34,
+                    "height": 20
+                }
+            },
+            {
+                "word": "Procedure",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1328,
+                    "y": 2610,
+                    "width": 165,
+                    "height": 29
+                }
+            },
+            {
+                "word": "Public",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 403,
+                    "y": 3152,
+                    "width": 92,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Health",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 508,
+                    "y": 3152,
+                    "width": 97,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Nurse",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 617,
+                    "y": 3153,
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            {
+                "word": "Name",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 716,
+                    "y": 3153,
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            {
+                "word": "Public",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1308,
+                    "y": 3152,
+                    "width": 92,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Health",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1413,
+                    "y": 3152,
+                    "width": 97,
+                    "height": 27
+                }
+            },
+            {
+                "word": "Nurse",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1522,
+                    "y": 3153,
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            {
+                "word": "Signature",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 1621,
+                    "y": 3152,
+                    "width": 141,
+                    "height": 35
+                }
+            },
+            {
+                "word": "SS/SE-71",
+                "confidence": 87,
+                "bounding_box": {
+                    "x": 128,
+                    "y": 3205,
+                    "width": 138,
+                    "height": 27
+                }
+            },
+            {
+                "word": "(5/23)",
+                "confidence": 96,
+                "bounding_box": {
+                    "x": 282,
+                    "y": 3205,
+                    "width": 90,
+                    "height": 31
+                }
+            }
+        ],
+        "extracted_fields": {}
+    }
+]
