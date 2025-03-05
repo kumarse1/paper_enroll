@@ -3,6 +3,10 @@ from config import LONG_STATIC_VERBIAGE
 import pandas as pd
 from tabulate import tabulate
 import re
+import os
+import io
+import numpy as np
+from PIL import Image
 
 def map_to_baseline_schema(word):
     """
@@ -82,14 +86,52 @@ def print_ocr_results_table(extracted_text):
 
 # Example usage
 if __name__ == "__main__":
-    from PIL import Image
+    import os
+    try:
+        import fitz  # PyMuPDF
+    except ImportError:
+        print("PyMuPDF is not installed. Please install it with: pip install pymupdf")
+        exit(1)
     
-    # Replace with your image path
-    image_path = "your_document.png"
-    image = Image.open(image_path)
+    # Replace with your PDF path
+    pdf_path = "your_document.pdf"
     
-    # Perform OCR
-    results = perform_ocr(image)
+    # Check if the file exists
+    if not os.path.exists(pdf_path):
+        print(f"Error: File {pdf_path} not found.")
+        exit(1)
+        
+    # Convert PDF to images using PyMuPDF
+    print(f"Converting PDF to images: {pdf_path}")
+    try:
+        pdf_document = fitz.open(pdf_path)
+        pages = []
+        
+        for page_num in range(len(pdf_document)):
+            page = pdf_document.load_page(page_num)
+            # Increase the resolution for better OCR results
+            pix = page.get_pixmap(matrix=fitz.Matrix(300/72, 300/72))
+            img_data = pix.tobytes("png")
+            img = Image.open(io.BytesIO(img_data))
+            pages.append(img)
+            
+        print(f"Successfully converted {len(pages)} pages")
+    except Exception as e:
+        print(f"Error converting PDF: {e}")
+        exit(1)
     
-    # Print results in tabular format
-    print_ocr_results_table(results)
+    # Process each page
+    all_results = []
+    for i, image in enumerate(pages):
+        print(f"Processing page {i+1}/{len(pages)}")
+        results = perform_ocr(image)
+        all_results.extend(results)
+        
+        # Print results for this page
+        print(f"\nResults from page {i+1}:")
+        print_ocr_results_table(results)
+    
+    # Print all results together if multiple pages
+    if len(pages) > 1:
+        print("\nCombined results from all pages:")
+        print_ocr_results_table(all_results)
