@@ -1,0 +1,31 @@
+
+
+' modGlobals
+' Global variables and constants for Crosswalk Management System
+
+Option Explicit
+
+' Sheet names
+Public Const SHEET_DASHBOARD As String = "Template Dashboard"
+Public Const SHEET_MAPPING As String = "Field Mappings"
+Public Const SHEET_CONFIG As String = "Configuration"
+Public Const SHEET_METADATA As String = "Metadata"
+
+' Template statuses
+Public Const STATUS_ACTIVE As String = "Active"
+Public Const STATUS_DRAFT As String = "Draft"
+Public Const STATUS_REVIEW As String = "In Review"
+Public Const STATUS_ARCHIVED As String = "Archived"
+
+' Template types
+Public Const TYPE_INVOICE As String = "Invoice"
+Public Const TYPE_CORRESPONDENCE As String = "Correspondence"
+Public Const TYPE_DOCUMENT As String = "Document"
+Public Const TYPE_DENTAL As String = "Dental"
+Public Const TYPE_HEALTH As String = "Health"
+
+' Color codes
+Public Const COLOR_ACTIVE As Long = 5287936     ' Light green
+Public Const COLOR_REVIEW As Long = 49407       ' Light orange
+Public Const COLOR_DRAFT As Long = 255          ' Light red
+Public Const COLOR_ARCHIVED As Long = 12632256  ' Light gray
