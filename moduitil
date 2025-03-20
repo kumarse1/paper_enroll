@@ -1,0 +1,70 @@
+' modUtilities
+' Helper functions for the Crosswalk Management System
+
+Option Explicit
+
+Public Function GetCurrentYear() As String
+    ' Returns the current year as a string
+    GetCurrentYear = Year(Date)
+End Function
+
+Public Function GenerateUniqueId() As String
+    ' Generate a unique identifier
+    ' In a real implementation, this would be more sophisticated
+    GenerateUniqueId = "ID_" & Format(Now(), "yyyymmddhhnnss") & "_" & Int(Rnd() * 1000)
+End Function
+
+Public Function FormatVersionNumber(versionNumber As Integer) As String
+    ' Format version number as v1.0, v1.1, etc.
+    FormatVersionNumber = "v" & Int(versionNumber) & "." & (versionNumber - Int(versionNumber)) * 10
+End Function
+
+Public Sub HideSheet(sheetName As String)
+    ' Hide a sheet by name
+    On Error Resume Next
+    ThisWorkbook.Sheets(sheetName).Visible = xlSheetVeryHidden
+    On Error GoTo 0
+End Sub
+
+Public Sub CreateMetadataSheet()
+    ' Create or reset the metadata sheet
+    Dim ws As Worksheet
+    Dim exists As Boolean
+    
+    ' Check if sheet exists
+    exists = False
+    For Each ws In ThisWorkbook.Worksheets
+        If ws.Name = SHEET_METADATA Then
+            exists = True
+            Exit For
+        End If
+    Next ws
+    
+    ' Create or activate sheet
+    If Not exists Then
+        Set ws = ThisWorkbook.Worksheets.Add
+        ws.Name = SHEET_METADATA
+    Else
+        Set ws = ThisWorkbook.Worksheets(SHEET_METADATA)
+        ws.Cells.Clear
+    End If
+    
+    ' Set up metadata structure
+    With ws
+        .Range("A1").Value = "Template ID"
+        .Range("B1").Value = "Template Name"
+        .Range("C1").Value = "Type"
+        .Range("D1").Value = "Year"
+        .Range("E1").Value = "Version"
+        .Range("F1").Value = "Created Date"
+        .Range("G1").Value = "Modified Date"
+        .Range("H1").Value = "Status"
+        .Range("I1").Value = "Based On"
+        .Range("J1").Value = "JSON Config"
+        
+        .Range("A1:J1").Font.Bold = True
+    End With
+    
+    ' Hide the sheet
+    HideSheet SHEET_METADATA
+End Sub
