@@ -1,0 +1,179 @@
+' modTemplateManagement
+' Functions for template dashboard and management
+
+Option Explicit
+
+Public Sub SetupDashboard()
+    ' Create or activate dashboard sheet
+    Dim ws As Worksheet
+    Dim exists As Boolean
+    
+    ' Check if sheet exists
+    exists = False
+    For Each ws In ThisWorkbook.Worksheets
+        If ws.Name = SHEET_DASHBOARD Then
+            exists = True
+            Exit For
+        End If
+    Next ws
+    
+    ' Create or activate sheet
+    If Not exists Then
+        Set ws = ThisWorkbook.Worksheets.Add
+        ws.Name = SHEET_DASHBOARD
+    Else
+        Set ws = ThisWorkbook.Worksheets(SHEET_DASHBOARD)
+        ws.Cells.Clear
+    End If
+    
+    ' Set up dashboard layout
+    With ws
+        ' Title
+        .Range("A1:H1").Merge
+        .Range("A1").Value = "Crosswalk Template Management System"
+        .Range("A1").Font.Size = 16
+        .Range("A1").Font.Bold = True
+        .Range("A1").HorizontalAlignment = xlCenter
+        .Range("A1").Interior.Color = RGB(58, 134, 255)  ' #3a86ff
+        .Range("A1").Font.Color = RGB(255, 255, 255)     ' White
+        
+        ' Filter section
+        .Range("A3").Value = "Filter by:"
+        .Range("A3").Font.Bold = True
+        
+        .Range("B3").Value = "Type:"
+        .Range("C3").Value = "All Types"
+        
+        .Range("D3").Value = "Year:"
+        .Range("E3").Value = "All Years"
+        
+        .Range("F3").Value = "Status:"
+        .Range("G3").Value = "All"
+        
+        ' Action buttons placeholders
+        .Range("I3").Value = "New"
+        .Range("J3").Value = "Clone"
+        .Range("K3").Value = "Open"
+        
+        ' Header row
+        .Range("A5").Value = "#"
+        .Range("B5").Value = "Template Name"
+        .Range("C5").Value = "Type"
+        .Range("D5").Value = "Year"
+        .Range("E5").Value = "Version"
+        .Range("F5").Value = "Last Modified"
+        .Range("G5").Value = "Status"
+        .Range("H5").Value = "Actions"
+        
+        .Range("A5:H5").Font.Bold = True
+        .Range("A5:H5").Interior.Color = RGB(233, 240, 255)  ' Light blue
+        
+        ' Format as table
+        .Range("A5:H5").Borders.Weight = xlThin
+    End With
+    
+    ' Add some sample data
+    PopulateSampleData ws
+    
+    ' Add buttons
+    AddDashboardButtons ws
+End Sub
+
+Private Sub PopulateSampleData(ws As Worksheet)
+    ' Add sample template data
+    Dim data(1 To 4, 1 To 7) As Variant
+    
+    ' Template 1
+    data(1, 1) = "Invoice Crosswalk 2025"
+    data(1, 2) = TYPE_INVOICE
+    data(1, 3) = "2025"
+    data(1, 4) = "v1.2"
+    data(1, 5) = "Mar 05, 2025"
+    data(1, 6) = STATUS_ACTIVE
+    data(1, 7) = "Open"
+    
+    ' Template 2
+    data(2, 1) = "Correspondence Crosswalk 2025"
+    data(2, 2) = TYPE_CORRESPONDENCE
+    data(2, 3) = "2025"
+    data(2, 4) = "v2.1"
+    data(2, 5) = "Mar 10, 2025"
+    data(2, 6) = STATUS_REVIEW
+    data(2, 7) = "Open"
+    
+    ' Template 3
+    data(3, 1) = "Document Desc Crosswalk 2025"
+    data(3, 2) = TYPE_DOCUMENT
+    data(3, 3) = "2025"
+    data(3, 4) = "v0.8"
+    data(3, 5) = "Mar 15, 2025"
+    data(3, 6) = STATUS_DRAFT
+    data(3, 7) = "Open"
+    
+    ' Template 4
+    data(4, 1) = "Invoice Crosswalk 2024"
+    data(4, 2) = TYPE_INVOICE
+    data(4, 3) = "2024"
+    data(4, 4) = "v3.5"
+    data(4, 5) = "Dec 12, 2024"
+    data(4, 6) = STATUS_ARCHIVED
+    data(4, 7) = "Open/Clone"
+    
+    ' Write data to sheet
+    Dim i As Integer, j As Integer
+    For i = 1 To 4
+        ws.Cells(5 + i, 1).Value = i  ' Row number
+        For j = 1 To 7
+            ws.Cells(5 + i, 1 + j).Value = data(i, j)
+        Next j
+        
+        ' Format status cell with appropriate color
+        Select Case data(i, 6)
+            Case STATUS_ACTIVE
+                ws.Cells(5 + i, 7).Interior.Color = COLOR_ACTIVE
+            Case STATUS_REVIEW
+                ws.Cells(5 + i, 7).Interior.Color = COLOR_REVIEW
+            Case STATUS_DRAFT
+                ws.Cells(5 + i, 7).Interior.Color = COLOR_DRAFT
+            Case STATUS_ARCHIVED
+                ws.Cells(5 + i, 7).Interior.Color = COLOR_ARCHIVED
+        End Select
+    Next i
+End Sub
+
+Private Sub AddDashboardButtons(ws As Worksheet)
+    ' Create action buttons
+    
+    ' New button
+    Dim btnNew As Button
+    Set btnNew = ws.Buttons.Add(ws.Range("I3").Left, ws.Range("I3").Top, _
+                               ws.Range("I3").Width, ws.Range("I3").Height)
+    With btnNew
+        .Caption = "New"
+        .Name = "btnNew"
+        .OnAction = "CreateNewTemplate"
+    End With
+    
+    ' Clone button
+    Dim btnClone As Button
+    Set btnClone = ws.Buttons.Add(ws.Range("J3").Left, ws.Range("J3").Top, _
+                                 ws.Range("J3").Width, ws.Range("J3").Height)
+    With btnClone
+        .Caption = "Clone"
+        .Name = "btnClone"
+        .OnAction = "CloneTemplate"
+    End With
+    
+    ' Open button
+    Dim btnOpen As Button
+    Set btnOpen = ws.Buttons.Add(ws.Range("K3").Left, ws.Range("K3").Top, _
+                                ws.Range("K3").Width, ws.Range("K3").Height)
+    With btnOpen
+        .Caption = "Open"
+        .Name = "btnOpen"
+        .OnAction = "OpenTemplate"
+    End With
+    
+    ' Clear the cells that were placeholders for buttons
+    ws.Range("I3:K3").ClearContents
+End Sub
