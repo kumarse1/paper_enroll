@@ -1,0 +1,76 @@
+' Template management actions
+
+Public Sub CreateNewTemplate()
+    ' Show the new template form
+    MsgBox "This will show the New Template form", vbInformation
+    ' In a real implementation, this would show a UserForm
+    ' We'll create this form later
+End Sub
+
+Public Sub CloneTemplate()
+    ' Get the selected template
+    Dim selectedRow As Long
+    selectedRow = GetSelectedTemplateRow()
+    
+    If selectedRow = 0 Then
+        MsgBox "Please select a template to clone", vbExclamation
+        Exit Sub
+    End If
+    
+    ' Get template info
+    Dim ws As Worksheet
+    Set ws = ThisWorkbook.Worksheets(SHEET_DASHBOARD)
+    
+    Dim templateName As String
+    Dim templateType As String
+    Dim templateYear As String
+    
+    templateName = ws.Cells(selectedRow, 2).Value
+    templateType = ws.Cells(selectedRow, 3).Value
+    templateYear = ws.Cells(selectedRow, 4).Value
+    
+    ' For now, just show a message
+    MsgBox "Cloning template: " & templateName & vbNewLine & _
+           "Type: " & templateType & vbNewLine & _
+           "Year: " & templateYear, vbInformation
+    
+    ' In a real implementation, this would show the Clone Template form
+    ' We'll create this form later
+End Sub
+
+Public Sub OpenTemplate()
+    ' Get the selected template
+    Dim selectedRow As Long
+    selectedRow = GetSelectedTemplateRow()
+    
+    If selectedRow = 0 Then
+        MsgBox "Please select a template to open", vbExclamation
+        Exit Sub
+    End If
+    
+    ' Get template name
+    Dim ws As Worksheet
+    Set ws = ThisWorkbook.Worksheets(SHEET_DASHBOARD)
+    
+    Dim templateName As String
+    templateName = ws.Cells(selectedRow, 2).Value
+    
+    ' For now, just show a message
+    MsgBox "Opening template: " & templateName, vbInformation
+    
+    ' In a real implementation, this would open the mapping interface
+    ' We'll add this functionality later
+End Sub
+
+Private Function GetSelectedTemplateRow() As Long
+    ' Get the currently selected row in the template list
+    Dim ws As Worksheet
+    Set ws = ThisWorkbook.Worksheets(SHEET_DASHBOARD)
+    
+    ' Check if selection is in the template list area
+    If Not Intersect(Selection, ws.Range("A6:H100")) Is Nothing Then
+        GetSelectedTemplateRow = Selection.Row
+    Else
+        GetSelectedTemplateRow = 0
+    End If
+End Function
