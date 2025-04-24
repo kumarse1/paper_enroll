@@ -1,0 +1,37 @@
+Field Name	Type	Purpose
+form_id	UUID / SERIAL	Unique ID for internal reference
+form_type	TEXT	Human-readable label (e.g., "Group Health Enrollment")
+schema_path	TEXT	Path to the JSON schema file (or embedded JSONB)
+text_hash	TEXT	SHA256 fingerprint of the first-page text
+domain	TEXT	Optional — e.g., "Health", "Claims", "Dental"
+owner_org	TEXT	Optional — which client/tenant owns this form
+version	TEXT	For versioning if forms change (e.g., "v1.0", "2023_Rev")
+active	BOOLEAN	If this form version is currently in use
+created_at	TIMESTAMP	For tracking form entry
+updated_at	TIMESTAMP	For when the schema was last updated
+
+
+
+schema_id	UUID / SERIAL	Unique identifier for this schema
+form_type	TEXT	Link to the form_registry.form_type
+version	TEXT	Schema version (e.g., v1.0, 2023_01)
+schema_json	JSONB	The actual baseline schema (embedded as JSON)
+is_default	BOOLEAN	Marks the default schema version for this form type
+created_at	TIMESTAMP	When the schema was created
+updated_at	TIMESTAMP	Last update timestamp
+
+
+
+CREATE TABLE form_submissions (
+    submission_id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
+    form_type TEXT NOT NULL,
+    schema_version TEXT DEFAULT 'v1.0',
+    ocr_output JSONB,                     -- Raw OCR result before review
+    data JSONB NOT NULL,                  -- Final key-value results (after review)
+    edited BOOLEAN DEFAULT false,         -- Whether the user edited any field
+    edited_fields JSONB,                  -- Optional: track only the fields that were changed
+    form_instance_file TEXT,              -- Optional: link to PDF or image
+    reviewed_by TEXT,                     -- Who reviewed it
+    review_status TEXT,                   -- e.g., "approved", "rejected", "pending"
+    submitted_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
