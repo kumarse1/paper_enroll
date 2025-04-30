@@ -1,3 +1,44 @@
+
+Business-Centric vs Schema-Centric Design
+
+Aspect	Your Approach (Business-Centric)	Other Approach (Schema-Centric / Technical)
+Design Philosophy	Built around business use cases and workflows	Built around full schema exposure and technical access
+Data Exposure	Curated set of tables and views aligned to business context	Full set of raw tables and relationships exposed
+User Experience	Simplified, understandable structure for business users	Complex, requires technical understanding to navigate
+Semantic Interpretation	Yes – queries are interpreted based on business intent and context	No semantic layer – relies on exact table/field understanding
+Certified Queries/Views	Yes – governed and validated views for consistency and trust	No certification – raw queries can vary and be misused
+Human-in-the-Loop Approval	Yes – optional review before execution in sensitive or ambiguous cases	Not part of core workflow
+Ambiguity Detection	Yes – flags unclear or underspecified queries	No built-in ambiguity handling
+SQL Injection Prevention	Yes – protected against unsafe or malformed inputs	Not explicitly addressed
+Technical Flexibility	Can configure and expose relationships when needed	Full schema exposed by default, not tailored to business needs
+Target Audience	Business users, analysts, SMEs	Developers, DB admins, technical users
+Maintenance & Governance	Easier to govern, secure, and scale with business logic	Harder to manage as business needs evolve
+Outcome	Trusted, usable, explainable outputs aligned with business questions	Risk of misuse, misjoins, or incorrect results from raw access
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Field Name	Type	Purpose
 form_id	UUID / SERIAL	Unique ID for internal reference
 form_type	TEXT	Human-readable label (e.g., "Group Health Enrollment")
