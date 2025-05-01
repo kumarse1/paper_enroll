@@ -1,6 +1,11 @@
-Please analyze this form image and provide detailed information about all elements, organized by logical sections.
+Please analyze this form image and provide detailed information about all elements, organized by logical sections. Also identify the page number if this is a multi-page form.
 
-First, identify the major sections or groups in the form (e.g., "Personal Information", "Contact Details", "Payment Information").
+First, identify:
+1. The current page number (if visible)
+2. Total number of pages (if indicated)
+3. Any form ID or document identifier visible
+
+Then identify the major sections or groups in the form (e.g., "Personal Information", "Contact Details", "Payment Information").
 
 For each section, provide:
 1. Section name or title (if visible)
@@ -26,11 +31,13 @@ Additionally, identify relationships between labels and their corresponding inpu
 
 Format the response as a JSON structure with:
 1. "image": image dimensions (width, height)
-2. "sections": array of detected sections, each containing:
+2. "page_info": details about page number and total pages
+3. "form_identifiers": any visible form IDs or document numbers
+4. "sections": array of detected sections, each containing:
    - "name": section name
    - "bndbox": section boundary coordinates
    - "elements": array of elements within this section
-3. "relationships": array of label-to-input field connections
+5. "relationships": array of label-to-input field connections
 
 All coordinates should be in absolute pixel values, not normalized.
 
