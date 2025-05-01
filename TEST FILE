@@ -1,6 +1,13 @@
-Please analyze this form image and provide detailed information about all elements in Pascal VOC format.
+Please analyze this form image and provide detailed information about all elements, organized by logical sections.
 
-For each element, identify and classify as one of the following:
+First, identify the major sections or groups in the form (e.g., "Personal Information", "Contact Details", "Payment Information").
+
+For each section, provide:
+1. Section name or title (if visible)
+2. Section bounding box in Pascal VOC format [xmin, ymin, xmax, ymax]
+3. List of elements contained within this section
+
+For each element within a section, identify and classify as one of the following:
 1. Label (text describing a field)
 2. Input field (area for entering data)
 3. Checkbox
@@ -19,11 +26,13 @@ Additionally, identify relationships between labels and their corresponding inpu
 
 Format the response as a JSON structure with:
 1. "image": image dimensions (width, height)
-2. "elements": array of detected elements with their classifications, content, and bounding boxes
+2. "sections": array of detected sections, each containing:
+   - "name": section name
+   - "bndbox": section boundary coordinates
+   - "elements": array of elements within this section
 3. "relationships": array of label-to-input field connections
 
 All coordinates should be in absolute pixel values, not normalized.
-
 
 
 
