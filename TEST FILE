@@ -1,3 +1,43 @@
+Please analyze this form image and provide detailed information about all elements in Pascal VOC format.
+
+For each element, identify and classify as one of the following:
+1. Label (text describing a field)
+2. Input field (area for entering data)
+3. Checkbox
+4. Radio button
+5. Button
+6. Other UI element
+
+For each element, provide:
+1. Element classification (from categories above)
+2. Text content (if any)
+3. Bounding box coordinates in Pascal VOC format [xmin, ymin, xmax, ymax] in absolute pixel values
+4. For input fields, indicate if they are empty or filled
+5. For checkboxes/radio buttons, indicate if they are checked/selected
+
+Additionally, identify relationships between labels and their corresponding input fields.
+
+Format the response as a JSON structure with:
+1. "image": image dimensions (width, height)
+2. "elements": array of detected elements with their classifications, content, and bounding boxes
+3. "relationships": array of label-to-input field connections
+
+All coordinates should be in absolute pixel values, not normalized.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Business-Centric vs Schema-Centric Design
 
