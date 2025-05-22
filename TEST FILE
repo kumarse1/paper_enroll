@@ -52,6 +52,123 @@ for _, row in df.iterrows():
 
 # ----------------- Streamlit UI -----------------
 st.set_page_config(page_title="CMDB Knowledge Graph", layout="wide")
+st.title("📊 CMDB Knowledge Graph - Interactive Explorer")
+
+# Application filter
+app_nodes = [n for n, attr in G.nodes(data=True) if attr["type"] == "application"]
+selected_app = st.selectbox("🔍 Select an Application to Explore", options=app_nodes)
+
+# View type toggle
+show_subgraph = st.checkbox("🔗 Show Only Related Nodes", value=True)
+
+# Node color legend
+st.markdown("### 🧭 Node Color Legend")
+st.markdown("""
+- 🔴 **Application**  
+- 🟠 **Component**  
+- 🟡 **Subcomponent**  
+- 🟢 **Server**  
+- 🔵 **Database**  
+- 🟣 **Environment**
+""")
+
+# Subgraph creation
+if show_subgraph:
+    neighbors = list(G.successors(selected_app)) + [selected_app]
+    SG = G.subgraph(neighbors).copy()
+else:
+    SG = G
+
+# Pyvis Graph
+net = Network(height="600px", width="100%", directed=True)
+net.barnes_hut()
+net.toggle_physics(True)
+
+for node, attr in SG.nodes(data=True):
+    color = node_colors.get(attr["type"], "gray")
+    net.add_node(node, label=node, title=f"{attr['type']}", color=color)
+
+for source, target, attr in SG.edges(data=True):
+    net.add_edge(source, target, title=attr["label"], label=attr["label"])
+
+# Save and display HTML
+temp_dir = tempfile.mkdtemp()
+html_path = os.path.join(temp_dir, "graph.html")
+net.save_graph(html_path)
+
+st.components.v1.html(open(html_path, "r", encoding="utf-8").read(), height=600)
+
+# Show connected nodes
+st.markdown("### 🧾 Connected Nodes Summary")
+if show_subgraph:
+    st.write(f"**{selected_app}** is connected to:")
+    for neighbor in G.successors(selected_app):
+        st.write(f"- {neighbor} ({G.nodes[neighbor]['type']})")
+else:
+    st.write("Full graph view is enabled.")
+
+
+
+
+
+
+
+=============================================
+
+import pandas as pd
+import networkx as nx
+from pyvis.network import Network
+import streamlit as st
+import tempfile
+import os
+
+# ----------------- Mock CMDB Data -----------------
+data = {
+    "Parent/application": ["Pay.sys", "Pay.sys", "Claim.sys"],
+    "component": ["Get Payment Amount", "Calculate Due", "Process Claim"],
+    "sub component": ["Get Binder Due", "Check Discounts", "Validate ID"],
+    "list of all servers app server that syupport application": ["payment-prod", "payment-prod", "claim-prod"],
+    "db name": ["prod_pay", "prod_pay", "prod_claim"],
+    "environment": ["production", "production", "staging"]
+}
+
+df = pd.DataFrame(data)
+
+# ----------------- Build Graph -----------------
+G = nx.DiGraph()
+
+node_colors = {
+    "application": "red",
+    "component": "orange",
+    "subcomponent": "yellow",
+    "server": "green",
+    "database": "blue",
+    "environment": "purple"
+}
+
+for _, row in df.iterrows():
+    app = row["Parent/application"]
+    comp = row["component"]
+    subcomp = row["sub component"]
+    server = row["list of all servers app server that syupport application"]
+    db = row["db name"]
+    env = row["environment"]
+
+    G.add_node(app, type="application")
+    G.add_node(comp, type="component")
+    G.add_node(subcomp, type="subcomponent")
+    G.add_node(server, type="server")
+    G.add_node(db, type="database")
+    G.add_node(env, type="environment")
+
+    G.add_edge(app, comp, label="has_component")
+    G.add_edge(comp, subcomp, label="has_subcomponent")
+    G.add_edge(app, server, label="hosted_on")
+    G.add_edge(app, db, label="uses_database")
+    G.add_edge(app, env, label="runs_in")
+
+# ----------------- Streamlit UI -----------------
+st.set_page_config(page_title="CMDB Knowledge Graph", layout="wide")
 st.title("📊 CMDB Knowledge Graph - Interactive View")
 
 app_nodes = [n for n, attr in G.nodes(data=True) if attr["type"] == "application"]
