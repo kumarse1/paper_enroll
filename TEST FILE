@@ -1,4 +1,35 @@
 
+rendering section
+
+# ---------- Pyvis Graph Rendering ----------
+net = Network(height="600px", width="100%", directed=True, bgcolor="#ffffff")
+net.barnes_hut()
+net.toggle_physics(True)
+
+for node, attr in SG.nodes(data=True):
+    color = color_map.get(attr["type"], "gray")
+    net.add_node(node, label=node, title=attr["type"], color=color)
+
+for src, tgt, attr in SG.edges(data=True):
+    net.add_edge(src, tgt, title=attr["label"], label=attr["label"])
+
+# Save graph to HTML
+temp_dir = tempfile.mkdtemp()
+html_path = os.path.join(temp_dir, "graph.html")
+net.save_graph(html_path)
+
+# Confirm file exists and read it
+if os.path.exists(html_path):
+    with open(html_path, "r", encoding="utf-8") as f:
+        html = f.read()
+        st.components.v1.html(html, height=600, scrolling=True)
+else:
+    st.error("❌ Graph could not be rendered.")
+=================================
+
+
+
+
 
 import pandas as pd
 import networkx as nx
