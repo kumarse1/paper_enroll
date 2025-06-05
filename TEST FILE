@@ -1,3 +1,64 @@
+
+Innovation Extension – Enhanced Automation (Testing Phase)
+Objective: Expand onboarding without relying on dev effort
+
+Auto-Onboarding Flow (in testing):
+
+AI Form Detection → Human Verification
+
+Dynamic Schema Creation + Pydantic Validation
+
+Auto-approved schemas flow into downstream systems
+
+No-Code Form Enablement:
+
+Teams can onboard new forms without writing code; schemas and validations are generated dynamically.
+
+Configurable OCR / Vision AI:
+
+The pipeline supports switching between OCR and Vision AI based on form type — OCR for clean digital layouts, Vision AI for checkboxes/handwriting. This is parameter-driven and easily tunable.
+
+Scalable Across Teams:
+
+Designed for reuse across teams and document types — with schema versioning, audit, and domain tagging.
+===============================================================================================================
+Lessons Learned (From Testing & POC Execution)
+Bounding Box Optimization:
+OCR accuracy improved by tuning box sizes, offsets, and sampling.
+
+OCR + Vision AI Strategy:
+Dynamic routing between OCR and Vision AI based on form structure enhanced accuracy and reduced failure rates.
+
+AI Input Batching:
+Controlled batching (e.g., 7 files per request) improved stability and LLM performance.
+
+Pydantic Validation:
+Real-time schema validations surfaced errors early (e.g., SSN format mismatches), improving reliability.
+
+Human-in-the-Loop Review:
+Added trust layer where reviewers verify edge cases before approval — balancing automation and oversight.
+
+
+==================================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 🔹 Core POC Learnings:
 Bounding Box Adaptation: Mixed typed and handwritten input caused localization drift; adaptive preprocessing and dynamic thresholding stabilized field detection.
 
